@@ -1,0 +1,177 @@
+[{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71311"
+  },
+  "prenom": "Alice",
+  "nom": "Dupont",
+  "age": 21,
+  "ville": "Paris",
+  "formation": "DWWM",
+  "notes": [
+    14,
+    16,
+    12
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71312"
+  },
+  "prenom": "Bruno",
+  "nom": "Martin",
+  "age": 25,
+  "ville": "Lyon",
+  "formation": "DWWM",
+  "notes": [
+    10,
+    9,
+    11
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71313"
+  },
+  "prenom": "Chloé",
+  "nom": "Leroy",
+  "age": 22,
+  "ville": "Marseille",
+  "formation": "CDA",
+  "notes": [
+    17,
+    18,
+    15
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71314"
+  },
+  "prenom": "David",
+  "nom": "Bernard",
+  "age": 30,
+  "ville": "Paris",
+  "formation": "DWWM",
+  "notes": [
+    8,
+    7,
+    9
+  ],
+  "actif": false
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71315"
+  },
+  "prenom": "Emma",
+  "nom": "Garcia",
+  "age": 19,
+  "ville": "Lille",
+  "formation": "DWWM",
+  "notes": [
+    15,
+    14,
+    16
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71316"
+  },
+  "prenom": "Fabio",
+  "nom": "Rossi",
+  "age": 24,
+  "ville": "Nice",
+  "formation": "CDA",
+  "notes": [
+    13,
+    12,
+    14
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71317"
+  },
+  "prenom": "Hugo",
+  "nom": "Moreau",
+  "age": 28,
+  "ville": "Lyon",
+  "formation": "DWWM",
+  "notes": [
+    11,
+    10,
+    12
+  ],
+  "actif": false
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71318"
+  },
+  "prenom": "Irina",
+  "nom": "Petit",
+  "age": 23,
+  "ville": "Lille",
+  "formation": "DWWM",
+  "notes": [
+    18,
+    17,
+    19
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b71319"
+  },
+  "prenom": "Jules",
+  "nom": "Nguyen",
+  "age": 27,
+  "ville": "Paris",
+  "formation": "CDA",
+  "notes": [
+    12,
+    13,
+    11
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c94a3e6caadb9fb6b7131a"
+  },
+  "prenom": "Kady",
+  "nom": "Diallo",
+  "age": 26,
+  "ville": "Marseille",
+  "formation": "DWWM",
+  "notes": [
+    9,
+    8,
+    10
+  ],
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68dc31dcfd38ad92a5b88aaa"
+  },
+  "prenom": "Nina",
+  "nom": "Lambert",
+  "age": 22,
+  "ville": "Bordeaux",
+  "formation": "DWWM",
+  "notes": [
+    15,
+    16,
+    14
+  ],
+  "actif": true
+}]
+

@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71245"
+  },
+  "nom": "Clavier Mécanique",
+  "categorie": "Informatique",
+  "prix": 89.9,
+  "stock": 120,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71246"
+  },
+  "nom": "Souris Sans Fil",
+  "categorie": "Informatique",
+  "prix": 29.9,
+  "stock": 300,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71247"
+  },
+  "nom": "Écran 27\\\" IPS",
+  "categorie": "Informatique",
+  "prix": 229,
+  "stock": 80,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71248"
+  },
+  "nom": "SSD 1To",
+  "categorie": "Informatique",
+  "prix": 99,
+  "stock": 200,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71249"
+  },
+  "nom": "Casque Audio",
+  "categorie": "Audio",
+  "prix": 79,
+  "stock": 150,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124a"
+  },
+  "nom": "Enceinte Bluetooth",
+  "categorie": "Audio",
+  "prix": 59,
+  "stock": 190,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124b"
+  },
+  "nom": "Smartphone X",
+  "categorie": "Téléphonie",
+  "prix": 699,
+  "stock": 60,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124c"
+  },
+  "nom": "Coque Silicone",
+  "categorie": "Téléphonie",
+  "prix": 19,
+  "stock": 500,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124d"
+  },
+  "nom": "Chargeur 30W",
+  "categorie": "Téléphonie",
+  "prix": 24,
+  "stock": 350,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124e"
+  },
+  "nom": "Tablette 10\\\"",
+  "categorie": "Informatique",
+  "prix": 349,
+  "stock": 70,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7124f"
+  },
+  "nom": "Montre Connectée",
+  "categorie": "Wearables",
+  "prix": 129,
+  "stock": 140,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71250"
+  },
+  "nom": "Câble USB-C",
+  "categorie": "Accessoires",
+  "prix": 9.9,
+  "stock": 800,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71251"
+  },
+  "nom": "Trépied Photo",
+  "categorie": "Photo",
+  "prix": 45,
+  "stock": 110,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71252"
+  },
+  "nom": "Appareil Photo",
+  "categorie": "Photo",
+  "prix": 799,
+  "stock": 40,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71253"
+  },
+  "nom": "Micro USB",
+  "categorie": "Audio",
+  "prix": 39,
+  "stock": 210,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71254"
+  },
+  "nom": "Hub USB-C",
+  "categorie": "Accessoires",
+  "prix": 29,
+  "stock": 260,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71255"
+  },
+  "nom": "Clé USB 128Go",
+  "categorie": "Accessoires",
+  "prix": 22,
+  "stock": 420,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71256"
+  },
+  "nom": "Router Wi-Fi 6",
+  "categorie": "Réseau",
+  "prix": 149,
+  "stock": 90,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71257"
+  },
+  "nom": "Switch 8 ports",
+  "categorie": "Réseau",
+  "prix": 69,
+  "stock": 130,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71258"
+  },
+  "nom": "Caméra IP",
+  "categorie": "Sécurité",
+  "prix": 89,
+  "stock": 150,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b71259"
+  },
+  "nom": "Clavier Slim",
+  "categorie": "Informatique",
+  "prix": 34.9,
+  "stock": 220,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7125a"
+  },
+  "nom": "Batterie Externe 20k",
+  "categorie": "Accessoires",
+  "prix": 39.9,
+  "stock": 300,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7125b"
+  },
+  "nom": "Support Laptop",
+  "categorie": "Accessoires",
+  "prix": 27,
+  "stock": 160,
+  "actif": true
+},
+{
+  "_id": {
+    "$oid": "68c946ec6caadb9fb6b7125c"
+  },
+  "nom": "Lampe de bureau LED",
+  "categorie": "Maison",
+  "prix": 25,
+  "stock": 200,
+  "actif": true
+}]

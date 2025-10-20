@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "nom": "Dupont",
+  "prenom": "Alice",
+  "email": "alice.dupont@example.com",
+  "telephone": "+33 6 11 22 33 44",
+  "adresse": {
+    "rue": "12 Rue des Fleurs",
+    "ville": "Paris",
+    "codePostal": "75011",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2024-12-12T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "nom": "Martin",
+  "prenom": "Bruno",
+  "email": "bruno.martin@example.com",
+  "telephone": "+33 6 22 33 44 55",
+  "adresse": {
+    "rue": "5 Avenue de Lyon",
+    "ville": "Lyon",
+    "codePostal": "69002",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-01-10T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "nom": "Leroy",
+  "prenom": "Chloé",
+  "email": "chloe.leroy@example.com",
+  "telephone": "+33 6 33 44 55 66",
+  "adresse": {
+    "rue": "18 Quai Saint-Pierre",
+    "ville": "Marseille",
+    "codePostal": "13001",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-02-01T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "nom": "Bernard",
+  "prenom": "David",
+  "email": "david.bernard@example.com",
+  "telephone": "+33 6 44 55 66 77",
+  "adresse": {
+    "rue": "3 Rue de la Paix",
+    "ville": "Paris",
+    "codePostal": "75002",
+    "pays": "FR"
+  },
+  "categorie": "Pro",
+  "dateInscription": {
+    "$date": "2024-11-20T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "nom": "Garcia",
+  "prenom": "Emma",
+  "email": "emma.garcia@example.com",
+  "telephone": "+33 6 55 66 77 88",
+  "adresse": {
+    "rue": "10 Rue des Docks",
+    "ville": "Lille",
+    "codePostal": "59000",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-03-05T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "nom": "Rossi",
+  "prenom": "Fabio",
+  "email": "fabio.rossi@example.com",
+  "telephone": "+33 6 66 77 88 99",
+  "adresse": {
+    "rue": "22 Rue de Rome",
+    "ville": "Nice",
+    "codePostal": "06000",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-02-18T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "nom": "Moreau",
+  "prenom": "Hugo",
+  "email": "hugo.moreau@example.com",
+  "adresse": {
+    "rue": "7 Place Bellecour",
+    "ville": "Lyon",
+    "codePostal": "69002",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-01-28T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "nom": "Petit",
+  "prenom": "Irina",
+  "email": "irina.petit@example.com",
+  "adresse": {
+    "rue": "2 Rue Nationale",
+    "ville": "Lille",
+    "codePostal": "59000",
+    "pays": "FR"
+  },
+  "categorie": "Pro",
+  "dateInscription": {
+    "$date": "2024-12-02T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "nom": "Nguyen",
+  "prenom": "Jules",
+  "email": "jules.nguyen@example.com",
+  "adresse": {
+    "rue": "9 Rue de Provence",
+    "ville": "Paris",
+    "codePostal": "75009",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-03-01T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "nom": "Diallo",
+  "prenom": "Kady",
+  "email": "kady.diallo@example.com",
+  "adresse": {
+    "rue": "14 Boulevard Sud",
+    "ville": "Marseille",
+    "codePostal": "13008",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-04-01T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "nom": "Fernandez",
+  "prenom": "Lara",
+  "email": "lara.fernandez@example.com",
+  "adresse": {
+    "rue": "6 Rue d'Espagne",
+    "ville": "Bordeaux",
+    "codePostal": "33000",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-02-10T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "nom": "Kane",
+  "prenom": "Moussa",
+  "email": "moussa.kane@example.com",
+  "adresse": {
+    "rue": "11 Rue du Port",
+    "ville": "Nantes",
+    "codePostal": "44000",
+    "pays": "FR"
+  },
+  "categorie": "Pro",
+  "dateInscription": {
+    "$date": "2024-10-15T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "nom": "Lambert",
+  "prenom": "Nina",
+  "email": "nina.lambert@example.com",
+  "adresse": {
+    "rue": "1 Rue du Parc",
+    "ville": "Rennes",
+    "codePostal": "35000",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-03-15T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "nom": "Ouedraogo",
+  "prenom": "Oumar",
+  "email": "oumar.oued@example.com",
+  "adresse": {
+    "rue": "8 Rue du Marché",
+    "ville": "Toulouse",
+    "codePostal": "31000",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-01-07T00:00:00Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "nom": "Perez",
+  "prenom": "Paula",
+  "email": "paula.perez@example.com",
+  "adresse": {
+    "rue": "99 Cours Mirabeau",
+    "ville": "Aix-en-Provence",
+    "codePostal": "13100",
+    "pays": "FR"
+  },
+  "categorie": "Particulier",
+  "dateInscription": {
+    "$date": "2025-02-25T00:00:00Z"
+  }
+}]

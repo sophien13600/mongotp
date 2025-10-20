@@ -1,0 +1,6611 @@
+[{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7125d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 799
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 84.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 69
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-02T09:46:34.066Z"
+  },
+  "totalTTC": 2962.38
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7125e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 27
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 229
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 699
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-06-16T01:00:00.463Z"
+  },
+  "totalTTC": 2112
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7125f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-04-04T08:33:38.235Z"
+  },
+  "totalTTC": 1668.82
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71260"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 80.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 664.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-22T01:19:51.641Z"
+  },
+  "totalTTC": 2311.08
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71261"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 69
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.4
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-08T23:09:02.384Z"
+  },
+  "totalTTC": 1634.65
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71262"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 22
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 75.05
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-10T16:47:43.280Z"
+  },
+  "totalTTC": 280.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71263"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 1,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 39.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 3,
+      "prixUnitaire": 19.8
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-12T23:56:16.793Z"
+  },
+  "totalTTC": 533.4
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71264"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 79
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-23T23:21:17.709Z"
+  },
+  "totalTTC": 373.33
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71265"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 2,
+      "prixUnitaire": 134.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 314.1
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-08-12T15:26:56.509Z"
+  },
+  "totalTTC": 1576.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71266"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 69
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 21.6
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-12T15:29:57.436Z"
+  },
+  "totalTTC": 228.6
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71267"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 799
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 84.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-11T23:31:35.705Z"
+  },
+  "totalTTC": 1079.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71268"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 664.05
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-06-05T01:28:56.310Z"
+  },
+  "totalTTC": 1399.92
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71269"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 99
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-08-15T09:46:49.355Z"
+  },
+  "totalTTC": 355
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126a"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 664.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 29.9
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-24T21:22:58.311Z"
+  },
+  "totalTTC": 1341.67
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126b"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 2,
+      "prixUnitaire": 18.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 22.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-20T05:40:40.703Z"
+  },
+  "totalTTC": 339.85
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126c"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 28.4
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-04-22T15:27:01.009Z"
+  },
+  "totalTTC": 56.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 27
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 80.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 62.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-04-06T18:38:44.262Z"
+  },
+  "totalTTC": 687.42
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 629.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-07-21T00:39:59.748Z"
+  },
+  "totalTTC": 1405.02
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7126f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 2,
+      "prixUnitaire": 18.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 59
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 664.05
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-21T12:40:52.251Z"
+  },
+  "totalTTC": 928.35
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71270"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 21.6
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 314.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-07T23:24:20.195Z"
+  },
+  "totalTTC": 1055.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71271"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 122.55
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-22T21:16:29.188Z"
+  },
+  "totalTTC": 367.65
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71272"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 2,
+      "prixUnitaire": 314.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-17T16:26:42.203Z"
+  },
+  "totalTTC": 762.03
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71273"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 29.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 40.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 84.55
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-17T08:37:28.946Z"
+  },
+  "totalTTC": 464.85
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71274"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 79
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-02T06:17:26.709Z"
+  },
+  "totalTTC": 468.75
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71275"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-23T06:42:48.881Z"
+  },
+  "totalTTC": 2397
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71276"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 2,
+      "prixUnitaire": 9.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 39
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 349
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 25.65
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-05-26T15:05:08.501Z"
+  },
+  "totalTTC": 754.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71277"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 29
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 75.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.9
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-11T16:23:38.268Z"
+  },
+  "totalTTC": 598.05
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71278"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.91
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-08T08:57:47.476Z"
+  },
+  "totalTTC": 80.73
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71279"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 21.6
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-31T13:14:07.077Z"
+  },
+  "totalTTC": 106.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127a"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 59
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-28T10:31:27.416Z"
+  },
+  "totalTTC": 177
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127b"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-19T16:02:21.023Z"
+  },
+  "totalTTC": 179.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127c"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 134.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-27T14:51:11.678Z"
+  },
+  "totalTTC": 402.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 59
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-06-08T14:31:03.406Z"
+  },
+  "totalTTC": 1138.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-05T07:00:23.550Z"
+  },
+  "totalTTC": 163.85
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7127f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 2,
+      "prixUnitaire": 141.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-12T22:01:28.585Z"
+  },
+  "totalTTC": 444.02
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71280"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 2,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 23.75
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-31T16:28:30.559Z"
+  },
+  "totalTTC": 253.96
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71281"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 2,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-30T06:33:36.692Z"
+  },
+  "totalTTC": 239.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71282"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 62.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-19T21:21:42.855Z"
+  },
+  "totalTTC": 186.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71283"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-01T02:50:48.351Z"
+  },
+  "totalTTC": 994.65
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71284"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 29
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 349
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 22.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-27T22:30:54.743Z"
+  },
+  "totalTTC": 3599.4
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71285"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 29.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 18.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 149
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-28T20:40:16.429Z"
+  },
+  "totalTTC": 494.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71286"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-11T17:36:47.198Z"
+  },
+  "totalTTC": 888
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71287"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-10T13:29:27.482Z"
+  },
+  "totalTTC": 240.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71288"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 719.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 39.9
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-28T12:43:03.800Z"
+  },
+  "totalTTC": 1147.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71289"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 149
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 24
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-08-24T12:32:16.537Z"
+  },
+  "totalTTC": 519
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128a"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 94.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-07-01T21:32:12.785Z"
+  },
+  "totalTTC": 297.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128b"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-09-06T18:31:12.140Z"
+  },
+  "totalTTC": 240.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128c"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 59
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 134.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-26T21:05:39.685Z"
+  },
+  "totalTTC": 2296.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 3,
+      "prixUnitaire": 19
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 629.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-27T13:25:42.291Z"
+  },
+  "totalTTC": 1315.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 99
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-15T14:46:20.309Z"
+  },
+  "totalTTC": 1986.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7128f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 1,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 206.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-13T01:37:30.118Z"
+  },
+  "totalTTC": 989.48
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71290"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 27
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-30T10:56:19.623Z"
+  },
+  "totalTTC": 283.5
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71291"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 8.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 1,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 799
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 2,
+      "prixUnitaire": 9.9
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-08T23:06:16.090Z"
+  },
+  "totalTTC": 1029.66
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71292"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 59
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-23T04:30:03.167Z"
+  },
+  "totalTTC": 244.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71293"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 3,
+      "prixUnitaire": 18.05
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-15T00:53:05.547Z"
+  },
+  "totalTTC": 54.15
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71294"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 39.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 99
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 25.65
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-04-03T01:08:55.081Z"
+  },
+  "totalTTC": 645.18
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71295"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 314.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-21T05:58:38.129Z"
+  },
+  "totalTTC": 1731.42
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71296"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 122.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 27.55
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-05-01T19:28:44.511Z"
+  },
+  "totalTTC": 522.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71297"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 62.1
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-06-03T23:39:45.867Z"
+  },
+  "totalTTC": 118.15
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71298"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 24
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-14T02:40:04.851Z"
+  },
+  "totalTTC": 267.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71299"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 27.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 75.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-05T13:25:02.851Z"
+  },
+  "totalTTC": 477
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129a"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 2,
+      "prixUnitaire": 17.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 664.05
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-02T00:42:57.181Z"
+  },
+  "totalTTC": 2026.35
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129b"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-22T16:07:45.905Z"
+  },
+  "totalTTC": 212.46
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129c"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 35.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 80.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 22.5
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-18T07:44:21.909Z"
+  },
+  "totalTTC": 400.41
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 2,
+      "prixUnitaire": 229
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 39.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-07T15:36:34.454Z"
+  },
+  "totalTTC": 577.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 122.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.4
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-24T09:21:01.914Z"
+  },
+  "totalTTC": 461.4
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7129f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-02T15:03:24.712Z"
+  },
+  "totalTTC": 496.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 62.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 94.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-07-04T22:07:00.421Z"
+  },
+  "totalTTC": 406.35
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 65.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-08-08T16:36:48.248Z"
+  },
+  "totalTTC": 679
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 1,
+      "prixUnitaire": 80.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 229
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-05T18:22:41.032Z"
+  },
+  "totalTTC": 902.26
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 699
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 79
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-08T14:55:18.796Z"
+  },
+  "totalTTC": 1631
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 22.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 1,
+      "prixUnitaire": 122.55
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-09-01T05:16:06.184Z"
+  },
+  "totalTTC": 301.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 1,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-23T20:43:25.182Z"
+  },
+  "totalTTC": 53.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 18.05
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-08-05T16:56:58.798Z"
+  },
+  "totalTTC": 18.05
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 65.55
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-18T15:36:45.240Z"
+  },
+  "totalTTC": 65.55
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-05T03:20:51.438Z"
+  },
+  "totalTTC": 159.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712a9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 71.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 22.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-05T13:43:04.414Z"
+  },
+  "totalTTC": 1344.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712aa"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 149
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 40.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 27.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 29.9
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-01T14:17:54.881Z"
+  },
+  "totalTTC": 397.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ab"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 20.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 2,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-19T09:07:07.892Z"
+  },
+  "totalTTC": 729.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ac"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.91
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-26T19:15:26.758Z"
+  },
+  "totalTTC": 107.73
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ad"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 349
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.9
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-04-26T05:41:19.199Z"
+  },
+  "totalTTC": 547.35
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ae"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 2,
+      "prixUnitaire": 42.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-08-13T11:41:00.322Z"
+  },
+  "totalTTC": 536.92
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712af"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 2,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 2,
+      "prixUnitaire": 59
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-30T13:29:48.841Z"
+  },
+  "totalTTC": 230.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 2,
+      "prixUnitaire": 8.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 20.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-29T16:29:07.012Z"
+  },
+  "totalTTC": 302.12
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 89
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-25T23:31:30.486Z"
+  },
+  "totalTTC": 178
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 1,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 39.9
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-09-02T15:23:30.617Z"
+  },
+  "totalTTC": 406.53
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 71.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 3,
+      "prixUnitaire": 18.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 71.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-28T01:37:58.755Z"
+  },
+  "totalTTC": 599
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 20.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-08-01T00:30:28.829Z"
+  },
+  "totalTTC": 290.52
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 1,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 29.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-13T00:05:05.754Z"
+  },
+  "totalTTC": 1271.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 149
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 24.3
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-07-07T20:32:55.763Z"
+  },
+  "totalTTC": 544.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 31.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-26T20:09:49.035Z"
+  },
+  "totalTTC": 226.12
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 84.55
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-10T09:52:23.563Z"
+  },
+  "totalTTC": 169.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712b9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 229
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-02T04:26:49.565Z"
+  },
+  "totalTTC": 687
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ba"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 80.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 25.65
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-09-02T01:33:50.490Z"
+  },
+  "totalTTC": 589.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712bb"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 2,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-18T17:49:38.810Z"
+  },
+  "totalTTC": 1598
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712bc"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 79
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-29T04:33:16.199Z"
+  },
+  "totalTTC": 154
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712bd"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 3,
+      "prixUnitaire": 20.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 2,
+      "prixUnitaire": 53.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-06T08:18:27.042Z"
+  },
+  "totalTTC": 168.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712be"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 1,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 69
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 99
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-27T06:41:07.932Z"
+  },
+  "totalTTC": 460
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712bf"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 664.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 33.15
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-13T09:32:26.537Z"
+  },
+  "totalTTC": 1361.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 35.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 84.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 39
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-29T09:07:37.493Z"
+  },
+  "totalTTC": 403.57
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 1,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 1,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 23.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 39
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-06T16:26:36.556Z"
+  },
+  "totalTTC": 1233.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-08T02:37:51.799Z"
+  },
+  "totalTTC": 29
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 1,
+      "prixUnitaire": 27
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 80.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-07T05:52:47.913Z"
+  },
+  "totalTTC": 206.91
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 2,
+      "prixUnitaire": 40.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 17.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-08-24T18:41:26.326Z"
+  },
+  "totalTTC": 485.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 2,
+      "prixUnitaire": 116.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-09-12T00:03:21.673Z"
+  },
+  "totalTTC": 232.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 19
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 22.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 149
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-09T09:20:04.447Z"
+  },
+  "totalTTC": 301.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 29
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 314.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-02-08T09:10:51.541Z"
+  },
+  "totalTTC": 709.4
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 21.6
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 20.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 33.15
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-12T20:23:59.723Z"
+  },
+  "totalTTC": 279
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712c9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 33.15
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-09T02:52:22.472Z"
+  },
+  "totalTTC": 33.15
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ca"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 1,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 349
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 759.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-17T12:37:15.004Z"
+  },
+  "totalTTC": 2679.55
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712cb"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.9
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-07T15:48:25.845Z"
+  },
+  "totalTTC": 29.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712cc"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 27.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 94.05
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-24T01:33:28.681Z"
+  },
+  "totalTTC": 309.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712cd"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 65.55
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-09T08:33:34.490Z"
+  },
+  "totalTTC": 160.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ce"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 71.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 69
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-14T02:32:43.386Z"
+  },
+  "totalTTC": 350.06
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712cf"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 134.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 18.05
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-03T09:49:52.885Z"
+  },
+  "totalTTC": 509.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 80.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 1,
+      "prixUnitaire": 229
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-01T15:03:05.521Z"
+  },
+  "totalTTC": 389.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 22
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 2,
+      "prixUnitaire": 42.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 21.6
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-13T11:08:37.398Z"
+  },
+  "totalTTC": 264.4
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 29
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 1,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 25
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-02T09:09:49.117Z"
+  },
+  "totalTTC": 189.41
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 71.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 29.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-15T18:33:31.805Z"
+  },
+  "totalTTC": 1424.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 71.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-09-06T17:07:56.227Z"
+  },
+  "totalTTC": 71.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 22
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 69
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-07-05T21:36:01.200Z"
+  },
+  "totalTTC": 350.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 45
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-16T02:35:24.995Z"
+  },
+  "totalTTC": 135
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 42.75
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 3,
+      "prixUnitaire": 9.4
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-21T03:41:08.174Z"
+  },
+  "totalTTC": 156.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 17.1
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-20T20:54:42.819Z"
+  },
+  "totalTTC": 17.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712d9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 69
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 719.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-04-29T17:13:41.590Z"
+  },
+  "totalTTC": 857.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712da"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 1,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 99
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 8.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 23.75
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-11T08:21:40.541Z"
+  },
+  "totalTTC": 467.06
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712db"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 2,
+      "prixUnitaire": 759.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-05-13T15:41:13.776Z"
+  },
+  "totalTTC": 1809.43
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712dc"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 25
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-29T10:07:46.783Z"
+  },
+  "totalTTC": 2014.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712dd"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-17T03:48:21.971Z"
+  },
+  "totalTTC": 78.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712de"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 59
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-03T14:39:10.789Z"
+  },
+  "totalTTC": 225
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712df"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.9
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-14T02:24:06.061Z"
+  },
+  "totalTTC": 145.6
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 2,
+      "prixUnitaire": 17.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-05-13T13:52:34.683Z"
+  },
+  "totalTTC": 222
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 27.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 2,
+      "prixUnitaire": 26.91
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 22.8
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-05-09T19:40:00.224Z"
+  },
+  "totalTTC": 2986.12
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 2,
+      "prixUnitaire": 89
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 2,
+      "prixUnitaire": 331.55
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-19T06:41:13.569Z"
+  },
+  "totalTTC": 874.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 75.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 29
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-21T11:38:26.077Z"
+  },
+  "totalTTC": 237.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 19
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-22T21:37:30.278Z"
+  },
+  "totalTTC": 19
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 3,
+      "prixUnitaire": 19
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 22.5
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-02-27T15:11:53.766Z"
+  },
+  "totalTTC": 172.5
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 3,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.4
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-05-30T05:49:21.412Z"
+  },
+  "totalTTC": 87.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 2,
+      "prixUnitaire": 314.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 24
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-05-03T04:49:02.825Z"
+  },
+  "totalTTC": 700.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 22.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 141.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 2,
+      "prixUnitaire": 719.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 94.05
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-20T00:50:33.350Z"
+  },
+  "totalTTC": 2167.8
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712e9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-18T14:19:51.957Z"
+  },
+  "totalTTC": 113.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ea"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 79
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 2,
+      "prixUnitaire": 21.6
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 1,
+      "prixUnitaire": 21.6
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 80.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-05-10T02:31:40.064Z"
+  },
+  "totalTTC": 542.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712eb"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 699
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 39
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 1,
+      "prixUnitaire": 40.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 19
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-02-28T01:48:12.494Z"
+  },
+  "totalTTC": 797.5
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ec"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 20.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 31.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 314.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 2,
+      "prixUnitaire": 40.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 85.41
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-19T23:17:57.623Z"
+  },
+  "totalTTC": 1277.84
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ed"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 2,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 1,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 2,
+      "prixUnitaire": 217.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-04T20:06:34.073Z"
+  },
+  "totalTTC": 3265
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ee"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 759.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 1,
+      "prixUnitaire": 65.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-05-12T23:21:13.044Z"
+  },
+  "totalTTC": 2514.75
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ef"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 3,
+      "prixUnitaire": 75.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 39.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 3,
+      "prixUnitaire": 22
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 79
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-10T12:15:19.663Z"
+  },
+  "totalTTC": 489.05
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f0"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123f"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 1,
+      "prixUnitaire": 31.41
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-09T17:24:16.315Z"
+  },
+  "totalTTC": 31.41
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f1"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 53.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 3,
+      "prixUnitaire": 45
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 2,
+      "prixUnitaire": 26.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 71.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 39
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-21T09:38:14.236Z"
+  },
+  "totalTTC": 495.6
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f2"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 69
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 1,
+      "prixUnitaire": 29.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 62.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 719.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-28T13:42:13.549Z"
+  },
+  "totalTTC": 2584.7
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f3"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71244"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 19
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 27
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-15T17:16:19.963Z"
+  },
+  "totalTTC": 172.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f4"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 24.3
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-03-16T04:38:29.956Z"
+  },
+  "totalTTC": 48.6
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f5"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 3,
+      "prixUnitaire": 24.3
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-03T06:22:47.221Z"
+  },
+  "totalTTC": 72.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f6"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 2,
+      "prixUnitaire": 89.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 39.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 25
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-03-26T20:25:57.464Z"
+  },
+  "totalTTC": 380.85
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f7"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123b"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 129
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 31.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71254"
+      },
+      "qte": 1,
+      "prixUnitaire": 27.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 19.8
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-13T09:09:16.747Z"
+  },
+  "totalTTC": 497.17
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f8"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71245"
+      },
+      "qte": 3,
+      "prixUnitaire": 85.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 3,
+      "prixUnitaire": 314.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 2,
+      "prixUnitaire": 94.05
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-11T13:19:35.276Z"
+  },
+  "totalTTC": 1386.63
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712f9"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 664.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 699
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-07-18T12:10:50.124Z"
+  },
+  "totalTTC": 2761.05
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712fa"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 2,
+      "prixUnitaire": 229
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71246"
+      },
+      "qte": 3,
+      "prixUnitaire": 28.4
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-30T18:01:40.071Z"
+  },
+  "totalTTC": 543.2
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712fb"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 699
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 89.1
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-12T16:05:51.602Z"
+  },
+  "totalTTC": 966.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712fc"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 3,
+      "prixUnitaire": 84.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 3,
+      "prixUnitaire": 141.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 1,
+      "prixUnitaire": 75.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.9
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-01-30T07:01:43.166Z"
+  },
+  "totalTTC": 791.25
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712fd"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123c"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71251"
+      },
+      "qte": 1,
+      "prixUnitaire": 42.75
+    }
+  ],
+  "statut": "payée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-06-28T10:42:38.039Z"
+  },
+  "totalTTC": 42.75
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712fe"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 116.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-01T15:15:07.899Z"
+  },
+  "totalTTC": 348.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b712ff"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 3,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 34.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 35.1
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-09-01T18:25:11.024Z"
+  },
+  "totalTTC": 234.5
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71300"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71239"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 149
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 31.41
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 22.5
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-06-20T08:31:43.805Z"
+  },
+  "totalTTC": 2192.72
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71301"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 3,
+      "prixUnitaire": 22.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 2,
+      "prixUnitaire": 31.41
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-06-16T12:53:57.496Z"
+  },
+  "totalTTC": 130.32
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71302"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 56.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 25.65
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71248"
+      },
+      "qte": 3,
+      "prixUnitaire": 94.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71250"
+      },
+      "qte": 1,
+      "prixUnitaire": 9.4
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 39
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-08-07T12:46:13.242Z"
+  },
+  "totalTTC": 628
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71303"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123a"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125b"
+      },
+      "qte": 2,
+      "prixUnitaire": 24.3
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 2,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-01-17T02:39:43.334Z"
+  },
+  "totalTTC": 1646.6
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71304"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 22
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 22.5
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 134.1
+    }
+  ],
+  "statut": "payée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-04-06T06:07:29.654Z"
+  },
+  "totalTTC": 201.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71305"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123e"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 3,
+      "prixUnitaire": 206.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71258"
+      },
+      "qte": 1,
+      "prixUnitaire": 84.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 35.1
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2024-12-30T09:09:15.264Z"
+  },
+  "totalTTC": 737.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71306"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 1,
+      "prixUnitaire": 229
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-02-26T10:47:47.266Z"
+  },
+  "totalTTC": 303.1
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71307"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71243"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 1,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 3,
+      "prixUnitaire": 65.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 2,
+      "prixUnitaire": 141.55
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-08-02T07:26:30.269Z"
+  },
+  "totalTTC": 517.65
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71308"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71237"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124d"
+      },
+      "qte": 3,
+      "prixUnitaire": 24
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 1,
+      "prixUnitaire": 331.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 3,
+      "prixUnitaire": 19
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 2,
+      "prixUnitaire": 141.55
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71247"
+      },
+      "qte": 2,
+      "prixUnitaire": 229
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-08T11:08:46.305Z"
+  },
+  "totalTTC": 1201.65
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71309"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71259"
+      },
+      "qte": 3,
+      "prixUnitaire": 33.15
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125c"
+      },
+      "qte": 2,
+      "prixUnitaire": 25
+    }
+  ],
+  "statut": "livrée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-03-10T09:45:07.510Z"
+  },
+  "totalTTC": 149.45
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130a"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 1,
+      "prixUnitaire": 699
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71249"
+      },
+      "qte": 2,
+      "prixUnitaire": 79
+    }
+  ],
+  "statut": "annulée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2024-12-29T11:50:14.612Z"
+  },
+  "totalTTC": 857
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130b"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71242"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 1,
+      "prixUnitaire": 19.8
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 2,
+      "prixUnitaire": 39
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124c"
+      },
+      "qte": 1,
+      "prixUnitaire": 18.05
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 1,
+      "prixUnitaire": 134.1
+    }
+  ],
+  "statut": "en_attente",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-08-09T00:42:04.406Z"
+  },
+  "totalTTC": 249.95
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130c"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71241"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 1,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124f"
+      },
+      "qte": 3,
+      "prixUnitaire": 116.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 39.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71255"
+      },
+      "qte": 3,
+      "prixUnitaire": 20.9
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-02-26T20:30:11.674Z"
+  },
+  "totalTTC": 606.9
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130d"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b7123d"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124a"
+      },
+      "qte": 3,
+      "prixUnitaire": 59
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 3,
+      "prixUnitaire": 719.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 2,
+      "prixUnitaire": 699
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-04-03T19:49:14.160Z"
+  },
+  "totalTTC": 3732.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130e"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71238"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 1,
+      "prixUnitaire": 39
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124e"
+      },
+      "qte": 2,
+      "prixUnitaire": 349
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71253"
+      },
+      "qte": 3,
+      "prixUnitaire": 37.05
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "Virement",
+  "createdAt": {
+    "$date": "2025-07-24T04:32:04.291Z"
+  },
+  "totalTTC": 848.15
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b7130f"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71236"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71256"
+      },
+      "qte": 2,
+      "prixUnitaire": 134.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7124b"
+      },
+      "qte": 3,
+      "prixUnitaire": 629.1
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b7125a"
+      },
+      "qte": 2,
+      "prixUnitaire": 37.9
+    },
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71252"
+      },
+      "qte": 1,
+      "prixUnitaire": 799
+    }
+  ],
+  "statut": "expédiée",
+  "paiement": "PayPal",
+  "createdAt": {
+    "$date": "2025-01-11T02:45:25.785Z"
+  },
+  "totalTTC": 3030.3
+},
+{
+  "_id": {
+    "$oid": "68c9472b6caadb9fb6b71310"
+  },
+  "clientId": {
+    "$oid": "68c946ba6caadb9fb6b71240"
+  },
+  "items": [
+    {
+      "produitId": {
+        "$oid": "68c946ec6caadb9fb6b71257"
+      },
+      "qte": 2,
+      "prixUnitaire": 69
+    }
+  ],
+  "statut": "payée",
+  "paiement": "CB",
+  "createdAt": {
+    "$date": "2025-05-14T07:24:45.779Z"
+  },
+  "totalTTC": 138
+}]
