@@ -203,3 +203,42 @@ db.commandes.aggregate([
 
 //9.	Ville la plus rentable
 //CA total par ville de livraison (clients.adresse.ville), puis top 3.
+
+db.commandes.aggregate([
+  {$match: {statut: {$ne:"annulée"}}},
+  {$lookup: {from: "clients", localField: "clientId", foreignField: "_id", as: "client"}},
+  {$unwind:"$client"},
+  {$group: {_id:"$client.adresse.ville", caTotal: {$sum: "$totalTTC"}}},
+  {$sort: {caTotal: -1}},
+  {$limit:3},
+  {$project:{
+    _id:0,
+    ville:"$_id",
+    caTotal: {$round: ["$caTotal",2]}
+  }}
+])
+
+//10.	Statistiques par catégorie produit
+//CA et quantités vendues par categorie
+
+db.commandes.aggregate([
+  {$unwind:"$items"},
+  {$lookup:{from: "produits", localField: "items.produitId", foreignField:"_id", as: "prod"}},
+  {$unwind:"$prod"},
+  {$group:{_id:"$prod.categorie", qtTotal:{$sum:"$items.qte"}, caTotal:{$sum: {$multiply:["$items.qte","$items.prixUnitaire"]}}}},
+  {$project:{
+    _id:0,
+    categorie:"$_id",
+    qtTotal:1,
+    caTotal:1
+  }}
+])
+
+//clients sans commande
+db.clients.aggregate([
+    {$lookup:{from:"commandes", localField:"_id", foreignField:"clientId", as: "cmd"}},
+    {$match:{cmd:{$size:0}}},
+    {$project:{
+        nom:1, prenom: 1
+    }}
+])
