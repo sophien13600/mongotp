@@ -1,0 +1,222 @@
+[
+  {
+    "_id": {
+      "$oid": "182d831caa154aa750d2c20a"
+    },
+    "nom": "Carrefour Reims 1",
+    "codeMagasin": "CAR001",
+    "type": "super",
+    "ville": "Reims",
+    "region": "Grand Est",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "124409df8f19af6a0cdfdb15"
+    },
+    "nom": "Carrefour Marseille 2",
+    "codeMagasin": "CAR002",
+    "type": "market",
+    "ville": "Marseille",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "85aac2eca062b0b7c19f7f54"
+    },
+    "nom": "Carrefour Tours 3",
+    "codeMagasin": "CAR003",
+    "type": "market",
+    "ville": "Tours",
+    "region": "Centre-Val de Loire",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "ce104e608b8dd032b22d0c2c"
+    },
+    "nom": "Carrefour Paris 4",
+    "codeMagasin": "CAR004",
+    "type": "city",
+    "ville": "Paris",
+    "region": "Île-de-France",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "8f1adb05d24b721c949cb4a3"
+    },
+    "nom": "Carrefour Caen 5",
+    "codeMagasin": "CAR005",
+    "type": "hyper",
+    "ville": "Caen",
+    "region": "Normandie",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "cd14e0bee9d05a4a3b7a2876"
+    },
+    "nom": "Carrefour Montpellier 6",
+    "codeMagasin": "CAR006",
+    "type": "city",
+    "ville": "Montpellier",
+    "region": "Occitanie",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "c126606872a2a44ffc08fac7"
+    },
+    "nom": "Carrefour Angers 7",
+    "codeMagasin": "CAR007",
+    "type": "hyper",
+    "ville": "Angers",
+    "region": "Pays de la Loire",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "0fa31bebdab6ea65c1dc85cb"
+    },
+    "nom": "Carrefour Marseille 8",
+    "codeMagasin": "CAR008",
+    "type": "city",
+    "ville": "Marseille",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "38a1c1c93ea7e8eb7e8a1530"
+    },
+    "nom": "Carrefour Rouen 9",
+    "codeMagasin": "CAR009",
+    "type": "market",
+    "ville": "Rouen",
+    "region": "Normandie",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "4f1f4ab71e90ac72895dbd10"
+    },
+    "nom": "Carrefour Le Havre 10",
+    "codeMagasin": "CAR010",
+    "type": "hyper",
+    "ville": "Le Havre",
+    "region": "Normandie",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "618569fe7923e862cde31ddb"
+    },
+    "nom": "Carrefour Bordeaux 11",
+    "codeMagasin": "CAR011",
+    "type": "market",
+    "ville": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "46671762c00da017d95939a6"
+    },
+    "nom": "Carrefour Angers 12",
+    "codeMagasin": "CAR012",
+    "type": "super",
+    "ville": "Angers",
+    "region": "Pays de la Loire",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "b4e7d7dc6c2f194f343eb0eb"
+    },
+    "nom": "Carrefour Nice 13",
+    "codeMagasin": "CAR013",
+    "type": "city",
+    "ville": "Nice",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "6c133a26c5d4f4052a1347ed"
+    },
+    "nom": "Carrefour Nantes 14",
+    "codeMagasin": "CAR014",
+    "type": "market",
+    "ville": "Nantes",
+    "region": "Pays de la Loire",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "1143e241be677da4209acb71"
+    },
+    "nom": "Carrefour Lyon 15",
+    "codeMagasin": "CAR015",
+    "type": "express",
+    "ville": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "23797408dbb4d19ba0b092c5"
+    },
+    "nom": "Carrefour Orléans 16",
+    "codeMagasin": "CAR016",
+    "type": "city",
+    "ville": "Orléans",
+    "region": "Centre-Val de Loire",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "e36c266bdf95c08056b53438"
+    },
+    "nom": "Carrefour Lille 17",
+    "codeMagasin": "CAR017",
+    "type": "super",
+    "ville": "Lille",
+    "region": "Hauts-de-France",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "b18b48d2833a99e70233ecb5"
+    },
+    "nom": "Carrefour Bordeaux 18",
+    "codeMagasin": "CAR018",
+    "type": "market",
+    "ville": "Bordeaux",
+    "region": "Nouvelle-Aquitaine",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "0d670d4258d5c9203c81699a"
+    },
+    "nom": "Carrefour Paris 19",
+    "codeMagasin": "CAR019",
+    "type": "hyper",
+    "ville": "Paris",
+    "region": "Île-de-France",
+    "actif": true
+  },
+  {
+    "_id": {
+      "$oid": "996d6f1d245172e6cdb262e1"
+    },
+    "nom": "Carrefour Tours 20",
+    "codeMagasin": "CAR020",
+    "type": "city",
+    "ville": "Tours",
+    "region": "Centre-Val de Loire",
+    "actif": true
+  }
+]

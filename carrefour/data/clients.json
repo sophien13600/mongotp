@@ -1,0 +1,2122 @@
+[
+  {
+    "_id": {
+      "$oid": "924190afa411e4e851f7c8e3"
+    },
+    "estPorteur": true,
+    "email": "nadia.sow459@outlook.com",
+    "anneeNaissance": 1998,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "940258401495",
+      "dateAdhesion": {
+        "$date": "2023-09-22T20:27:02.536329+00:00"
+      },
+      "points": 2283
+    }
+  },
+  {
+    "_id": {
+      "$oid": "46835a0181a70a9ae449b2d5"
+    },
+    "estPorteur": false,
+    "email": "hugo.kane255@proton.me",
+    "anneeNaissance": 1978,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "d5aa21ff91a4b11be0df374e"
+    },
+    "estPorteur": true,
+    "email": "hugo.bernard295@gmail.com",
+    "anneeNaissance": 2006,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "953646419926",
+      "dateAdhesion": {
+        "$date": "2023-11-10T20:27:02.537991+00:00"
+      },
+      "points": 1282
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4cbd0b47535bb1c4a23dca32"
+    },
+    "estPorteur": true,
+    "email": "lucas.kane779@outlook.com",
+    "anneeNaissance": 1960,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "882365465849",
+      "dateAdhesion": {
+        "$date": "2022-04-22T20:27:02.537407+00:00"
+      },
+      "points": 4790
+    }
+  },
+  {
+    "_id": {
+      "$oid": "52ba96a59fedb53bda102d4e"
+    },
+    "estPorteur": false,
+    "email": "nadia.durand395@outlook.com",
+    "anneeNaissance": 2000,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "7192f624498bbce82d6339d2"
+    },
+    "estPorteur": true,
+    "email": "lina.bernard110@proton.me",
+    "anneeNaissance": 1960,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "003705003889",
+      "dateAdhesion": {
+        "$date": "2025-05-15T20:27:02.538218+00:00"
+      },
+      "points": 1594
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1c643c94c9fcd1b228ac53d7"
+    },
+    "estPorteur": false,
+    "email": "lina.lefebvre505@yahoo.fr",
+    "anneeNaissance": 1958,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "3470f3af5f05db14cdd3cae3"
+    },
+    "estPorteur": true,
+    "email": "maya.ba482@proton.me",
+    "anneeNaissance": 2003,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "339488255740",
+      "dateAdhesion": {
+        "$date": "2025-05-25T20:27:02.537493+00:00"
+      },
+      "points": 893
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6b8bf0591fb75b581a051be3"
+    },
+    "estPorteur": true,
+    "email": "lina.ba685@gmail.com",
+    "anneeNaissance": 1952,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "680358469988",
+      "dateAdhesion": {
+        "$date": "2024-04-21T20:27:02.535662+00:00"
+      },
+      "points": 1432
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d92094b753b023ac03b88409"
+    },
+    "estPorteur": true,
+    "email": "awa.guerin733@yahoo.fr",
+    "anneeNaissance": 1989,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "141210887647",
+      "dateAdhesion": {
+        "$date": "2023-08-31T20:27:02.538180+00:00"
+      },
+      "points": 52
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4c77c5ef753c21ad550ec309"
+    },
+    "estPorteur": true,
+    "email": "paul.bernard763@outlook.com",
+    "anneeNaissance": 1970,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "903605642130",
+      "dateAdhesion": {
+        "$date": "2023-12-06T20:27:02.537629+00:00"
+      },
+      "points": 68
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3946a21b63144f5607167236"
+    },
+    "estPorteur": true,
+    "email": "fatou.kane682@proton.me",
+    "anneeNaissance": 1997,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "273128442375",
+      "dateAdhesion": {
+        "$date": "2025-02-19T20:27:02.537840+00:00"
+      },
+      "points": 2237
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fae56b659f39c6db243fbc6a"
+    },
+    "estPorteur": false,
+    "email": "amadou.martin221@yahoo.fr",
+    "anneeNaissance": 2002,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "04142c050ae2d56a916492d8"
+    },
+    "estPorteur": true,
+    "email": "moussa.guerin138@outlook.com",
+    "anneeNaissance": 1981,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "508534997731",
+      "dateAdhesion": {
+        "$date": "2024-03-22T20:27:02.537269+00:00"
+      },
+      "points": 1387
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ed358793ffba5f59a1d16198"
+    },
+    "estPorteur": true,
+    "email": "emma.bernard937@yahoo.fr",
+    "anneeNaissance": 1998,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "107707581184",
+      "dateAdhesion": {
+        "$date": "2025-01-31T20:27:02.536092+00:00"
+      },
+      "points": 831
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5c46f4d172315406fcc488fd"
+    },
+    "estPorteur": true,
+    "email": "lina.diallo135@yahoo.fr",
+    "anneeNaissance": 1952,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "313610101120",
+      "dateAdhesion": {
+        "$date": "2023-10-09T20:27:02.536436+00:00"
+      },
+      "points": 1282
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c05fed61ba3534825c7b789c"
+    },
+    "estPorteur": true,
+    "email": "paul.diallo765@proton.me",
+    "anneeNaissance": 1992,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "351479533571",
+      "dateAdhesion": {
+        "$date": "2023-08-02T20:27:02.535696+00:00"
+      },
+      "points": 2118
+    }
+  },
+  {
+    "_id": {
+      "$oid": "88d9ef3c730075fa30eafa54"
+    },
+    "estPorteur": true,
+    "email": "ethan.mercier575@yahoo.fr",
+    "anneeNaissance": 1968,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "986684403551",
+      "dateAdhesion": {
+        "$date": "2023-12-28T20:27:02.537790+00:00"
+      },
+      "points": 2013
+    }
+  },
+  {
+    "_id": {
+      "$oid": "624f83352ccaa6c58daf2cdc"
+    },
+    "estPorteur": true,
+    "email": "thomas.andre958@proton.me",
+    "anneeNaissance": 1960,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "523983402893",
+      "dateAdhesion": {
+        "$date": "2021-04-10T20:27:02.535449+00:00"
+      },
+      "points": 4370
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c3f96ea16569bafb736cc7fa"
+    },
+    "estPorteur": true,
+    "email": "amadou.blanc194@proton.me",
+    "anneeNaissance": 1969,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "064435769846",
+      "dateAdhesion": {
+        "$date": "2025-10-12T20:27:02.535333+00:00"
+      },
+      "points": 2286
+    }
+  },
+  {
+    "_id": {
+      "$oid": "676be1b9ad7bc84008935cbb"
+    },
+    "estPorteur": true,
+    "email": "awa.girard627@yahoo.fr",
+    "anneeNaissance": 2005,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "689526381314",
+      "dateAdhesion": {
+        "$date": "2024-11-14T20:27:02.537224+00:00"
+      },
+      "points": 2621
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6e65a7a1a1d1f8f109a6c705"
+    },
+    "estPorteur": true,
+    "email": "maya.ba280@proton.me",
+    "anneeNaissance": 1957,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "394538379629",
+      "dateAdhesion": {
+        "$date": "2025-02-17T20:27:02.537552+00:00"
+      },
+      "points": 300
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4d2d7163ae980ac11779095a"
+    },
+    "estPorteur": false,
+    "email": "lucas.petit251@gmail.com",
+    "anneeNaissance": 1982,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "26f3020b889bc83da5feba1b"
+    },
+    "estPorteur": true,
+    "email": "clara.martin460@proton.me",
+    "anneeNaissance": 1974,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "182203322223",
+      "dateAdhesion": {
+        "$date": "2022-01-13T20:27:02.535560+00:00"
+      },
+      "points": 4244
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7c38b8902dec00d5f36b918d"
+    },
+    "estPorteur": true,
+    "email": "lucas.bernard264@outlook.com",
+    "anneeNaissance": 1984,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "563254037187",
+      "dateAdhesion": {
+        "$date": "2023-01-16T20:27:02.537768+00:00"
+      },
+      "points": 1825
+    }
+  },
+  {
+    "_id": {
+      "$oid": "be319b4d0882f82926ba696f"
+    },
+    "estPorteur": true,
+    "email": "emma.mercier623@outlook.com",
+    "anneeNaissance": 1997,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "138643906828",
+      "dateAdhesion": {
+        "$date": "2022-11-07T20:27:02.536557+00:00"
+      },
+      "points": 1825
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ca609ad72eb4025a4dfa5e94"
+    },
+    "estPorteur": true,
+    "email": "léa.roux533@gmail.com",
+    "anneeNaissance": 1961,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "485033161022",
+      "dateAdhesion": {
+        "$date": "2025-10-20T20:27:02.537318+00:00"
+      },
+      "points": 2161
+    }
+  },
+  {
+    "_id": {
+      "$oid": "23e369f62ed3c0f0092b731f"
+    },
+    "estPorteur": true,
+    "email": "léa.guerin451@outlook.com",
+    "anneeNaissance": 1955,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "966282466432",
+      "dateAdhesion": {
+        "$date": "2023-06-18T20:27:02.536825+00:00"
+      },
+      "points": 1316
+    }
+  },
+  {
+    "_id": {
+      "$oid": "93b63a094b5f05cde6728447"
+    },
+    "estPorteur": true,
+    "email": "lina.kane167@outlook.com",
+    "anneeNaissance": 1975,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "709184949428",
+      "dateAdhesion": {
+        "$date": "2020-12-10T20:27:02.537869+00:00"
+      },
+      "points": 1950
+    }
+  },
+  {
+    "_id": {
+      "$oid": "81c6162ca7cf71a5f5beb154"
+    },
+    "estPorteur": true,
+    "email": "sophie.petit707@outlook.com",
+    "anneeNaissance": 1970,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "534710153508",
+      "dateAdhesion": {
+        "$date": "2024-03-15T20:27:02.536192+00:00"
+      },
+      "points": 1010
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8a44df1a4b6ef49b37bca28b"
+    },
+    "estPorteur": true,
+    "email": "julie.moreau932@gmail.com",
+    "anneeNaissance": 1997,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "074282189056",
+      "dateAdhesion": {
+        "$date": "2022-09-27T20:27:02.537362+00:00"
+      },
+      "points": 4849
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9b69fca055444f0fa73afc50"
+    },
+    "estPorteur": true,
+    "email": "paul.roux611@outlook.com",
+    "anneeNaissance": 1957,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "257298897145",
+      "dateAdhesion": {
+        "$date": "2022-07-30T20:27:02.536026+00:00"
+      },
+      "points": 716
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f417a28d89aedd031ae1afbf"
+    },
+    "estPorteur": false,
+    "email": "lucas.andre489@proton.me",
+    "anneeNaissance": 1994,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "9a7a82bd82fb6db174ec96cc"
+    },
+    "estPorteur": true,
+    "email": "nadia.bernard141@yahoo.fr",
+    "anneeNaissance": 1963,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "203410584383",
+      "dateAdhesion": {
+        "$date": "2024-05-12T20:27:02.536593+00:00"
+      },
+      "points": 3886
+    }
+  },
+  {
+    "_id": {
+      "$oid": "284fa0de7b9dc0913d8c9980"
+    },
+    "estPorteur": false,
+    "email": "paul.fournier546@gmail.com",
+    "anneeNaissance": 1975,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "9e736eb9953447e8d0a5ffc6"
+    },
+    "estPorteur": false,
+    "email": "hugo.diallo676@gmail.com",
+    "anneeNaissance": 1990,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "d3b1c0a54b3b75543db0a724"
+    },
+    "estPorteur": false,
+    "email": "hugo.meyer972@proton.me",
+    "anneeNaissance": 1993,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "c0645f1d279b5b972041154c"
+    },
+    "estPorteur": true,
+    "email": "clara.guerin913@outlook.com",
+    "anneeNaissance": 1964,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "529642572345",
+      "dateAdhesion": {
+        "$date": "2024-04-06T20:27:02.537338+00:00"
+      },
+      "points": 3588
+    }
+  },
+  {
+    "_id": {
+      "$oid": "58f3eb7c74dceeefe387fab8"
+    },
+    "estPorteur": true,
+    "email": "awa.guerin637@gmail.com",
+    "anneeNaissance": 1999,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "709064182560",
+      "dateAdhesion": {
+        "$date": "2021-05-12T20:27:02.536211+00:00"
+      },
+      "points": 2067
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8f896a713e237630dffe072e"
+    },
+    "estPorteur": true,
+    "email": "ethan.girard679@proton.me",
+    "anneeNaissance": 1968,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "262106666545",
+      "dateAdhesion": {
+        "$date": "2023-04-21T20:27:02.537462+00:00"
+      },
+      "points": 3514
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a12bb6b271bf2c0b8e6e8eb1"
+    },
+    "estPorteur": true,
+    "email": "noah.girard467@proton.me",
+    "anneeNaissance": 1986,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "330636190528",
+      "dateAdhesion": {
+        "$date": "2021-02-13T20:27:02.535977+00:00"
+      },
+      "points": 1424
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e593a06dff599f004943f499"
+    },
+    "estPorteur": false,
+    "email": "emma.ba848@outlook.com",
+    "anneeNaissance": 1972,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "69a58dcd44de15d7d6b8902e"
+    },
+    "estPorteur": true,
+    "email": "inès.dupont739@gmail.com",
+    "anneeNaissance": 1993,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "857458696166",
+      "dateAdhesion": {
+        "$date": "2023-09-27T20:27:02.536755+00:00"
+      },
+      "points": 571
+    }
+  },
+  {
+    "_id": {
+      "$oid": "77f8c81a8982f908991fe0e9"
+    },
+    "estPorteur": false,
+    "email": "emma.blanc524@outlook.com",
+    "anneeNaissance": 1995,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "a6ab843ef1f52d22293d16db"
+    },
+    "estPorteur": false,
+    "email": "moussa.garcia939@outlook.com",
+    "anneeNaissance": 1964,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "bf5b6b80d70af7253fa659a3"
+    },
+    "estPorteur": false,
+    "email": "karim.fournier698@gmail.com",
+    "anneeNaissance": 2003,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "2bdc1890eb23491efc1d26eb"
+    },
+    "estPorteur": true,
+    "email": "lucas.durand730@outlook.com",
+    "anneeNaissance": 1986,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "912088136169",
+      "dateAdhesion": {
+        "$date": "2023-03-12T20:27:02.537141+00:00"
+      },
+      "points": 2905
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a711084cca8460ffbf50f5e3"
+    },
+    "estPorteur": false,
+    "email": "karim.sow367@gmail.com",
+    "anneeNaissance": 1995,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "2aef5e6b85350e3b23a9910c"
+    },
+    "estPorteur": false,
+    "email": "clara.durand787@proton.me",
+    "anneeNaissance": 1989,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "315c6b846ea244f024cdfa2f"
+    },
+    "estPorteur": true,
+    "email": "nadia.kane589@proton.me",
+    "anneeNaissance": 1976,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "603091174913",
+      "dateAdhesion": {
+        "$date": "2025-02-19T20:27:02.538238+00:00"
+      },
+      "points": 2957
+    }
+  },
+  {
+    "_id": {
+      "$oid": "318dabb9797038231fcc1190"
+    },
+    "estPorteur": true,
+    "email": "moussa.girard235@proton.me",
+    "anneeNaissance": 1976,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "646197727017",
+      "dateAdhesion": {
+        "$date": "2025-07-09T20:27:02.536924+00:00"
+      },
+      "points": 2872
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8bb685026a830e849e82afee"
+    },
+    "estPorteur": true,
+    "email": "léa.ba292@proton.me",
+    "anneeNaissance": 1991,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "493780970756",
+      "dateAdhesion": {
+        "$date": "2021-07-20T20:27:02.537600+00:00"
+      },
+      "points": 677
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d7421bd5f9f9df9d1bf78902"
+    },
+    "estPorteur": true,
+    "email": "fatou.kane283@outlook.com",
+    "anneeNaissance": 1954,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "840220073659",
+      "dateAdhesion": {
+        "$date": "2023-10-02T20:27:02.536466+00:00"
+      },
+      "points": 2978
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a73197bf2e080fcdd73b347c"
+    },
+    "estPorteur": false,
+    "email": "thomas.blanc40@gmail.com",
+    "anneeNaissance": 2005,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "fee43f690fd87aaa47adee6c"
+    },
+    "estPorteur": false,
+    "email": "hugo.ba510@yahoo.fr",
+    "anneeNaissance": 1972,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "cff8ff1b020f638fb7cf00a6"
+    },
+    "estPorteur": true,
+    "email": "lucas.garcia855@proton.me",
+    "anneeNaissance": 1994,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "333700327382",
+      "dateAdhesion": {
+        "$date": "2020-12-22T20:27:02.537971+00:00"
+      },
+      "points": 2823
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6d123d94de592f4291359959"
+    },
+    "estPorteur": true,
+    "email": "awa.martin48@proton.me",
+    "anneeNaissance": 1988,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "634094227579",
+      "dateAdhesion": {
+        "$date": "2023-11-02T20:27:02.537099+00:00"
+      },
+      "points": 797
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b9dfaebf4d8921cfe530f63e"
+    },
+    "estPorteur": true,
+    "email": "lucas.garcia102@proton.me",
+    "anneeNaissance": 2004,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "748649921066",
+      "dateAdhesion": {
+        "$date": "2023-06-16T20:27:02.537714+00:00"
+      },
+      "points": 974
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f351cad55a7a0b7e5c175b5e"
+    },
+    "estPorteur": true,
+    "email": "sophie.diallo883@gmail.com",
+    "anneeNaissance": 1976,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "496714252706",
+      "dateAdhesion": {
+        "$date": "2020-11-09T20:27:02.536232+00:00"
+      },
+      "points": 4975
+    }
+  },
+  {
+    "_id": {
+      "$oid": "280e7f371049285d6339a954"
+    },
+    "estPorteur": true,
+    "email": "awa.petit253@proton.me",
+    "anneeNaissance": 1987,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "859060974663",
+      "dateAdhesion": {
+        "$date": "2021-11-18T20:27:02.535428+00:00"
+      },
+      "points": 146
+    }
+  },
+  {
+    "_id": {
+      "$oid": "cec5f71f47a11789c9698ec0"
+    },
+    "estPorteur": true,
+    "email": "maya.roux688@outlook.com",
+    "anneeNaissance": 2006,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "798555034760",
+      "dateAdhesion": {
+        "$date": "2024-01-16T20:27:02.535728+00:00"
+      },
+      "points": 3813
+    }
+  },
+  {
+    "_id": {
+      "$oid": "849185046c372f7a2d5b1881"
+    },
+    "estPorteur": true,
+    "email": "moussa.mercier135@proton.me",
+    "anneeNaissance": 2002,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "634058259591",
+      "dateAdhesion": {
+        "$date": "2024-11-26T20:27:02.535905+00:00"
+      },
+      "points": 3811
+    }
+  },
+  {
+    "_id": {
+      "$oid": "996f24ae8c9dad435e1745a6"
+    },
+    "estPorteur": true,
+    "email": "thomas.andre48@gmail.com",
+    "anneeNaissance": 1977,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "656313336068",
+      "dateAdhesion": {
+        "$date": "2022-05-07T20:27:02.537930+00:00"
+      },
+      "points": 3626
+    }
+  },
+  {
+    "_id": {
+      "$oid": "beaa0f8ddf724deb97501a87"
+    },
+    "estPorteur": true,
+    "email": "thomas.dupont24@outlook.com",
+    "anneeNaissance": 1992,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "873041598159",
+      "dateAdhesion": {
+        "$date": "2021-05-13T20:27:02.537517+00:00"
+      },
+      "points": 4882
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e8810999bd6757018f5f0d73"
+    },
+    "estPorteur": true,
+    "email": "paul.sow168@yahoo.fr",
+    "anneeNaissance": 1969,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "751303921438",
+      "dateAdhesion": {
+        "$date": "2023-03-12T20:27:02.536775+00:00"
+      },
+      "points": 1877
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4a17b856ce31cb3dc0492d0a"
+    },
+    "estPorteur": true,
+    "email": "julie.ba798@yahoo.fr",
+    "anneeNaissance": 1971,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "613167394625",
+      "dateAdhesion": {
+        "$date": "2020-11-14T20:27:02.536794+00:00"
+      },
+      "points": 1033
+    }
+  },
+  {
+    "_id": {
+      "$oid": "47ed9b613b8fc7a278dcb0a6"
+    },
+    "estPorteur": true,
+    "email": "lucas.bernard499@yahoo.fr",
+    "anneeNaissance": 1979,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "423524709979",
+      "dateAdhesion": {
+        "$date": "2022-01-03T20:27:02.536950+00:00"
+      },
+      "points": 2623
+    }
+  },
+  {
+    "_id": {
+      "$oid": "26850506c20fc1ea9fcfa7d7"
+    },
+    "estPorteur": false,
+    "email": "moussa.mercier86@gmail.com",
+    "anneeNaissance": 1977,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "2c382b987e90f8682a388de7"
+    },
+    "estPorteur": true,
+    "email": "ethan.blanc392@yahoo.fr",
+    "anneeNaissance": 1978,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "295023397480",
+      "dateAdhesion": {
+        "$date": "2023-01-17T20:27:02.537810+00:00"
+      },
+      "points": 1504
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5bb8db83ce060498ccf3a695"
+    },
+    "estPorteur": true,
+    "email": "hugo.kane615@outlook.com",
+    "anneeNaissance": 1958,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "103634254790",
+      "dateAdhesion": {
+        "$date": "2023-10-07T20:27:02.536638+00:00"
+      },
+      "points": 2902
+    }
+  },
+  {
+    "_id": {
+      "$oid": "18e745e62f99ebf93570966a"
+    },
+    "estPorteur": true,
+    "email": "julie.sow418@yahoo.fr",
+    "anneeNaissance": 1998,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "086844602551",
+      "dateAdhesion": {
+        "$date": "2022-02-01T20:27:02.536173+00:00"
+      },
+      "points": 4895
+    }
+  },
+  {
+    "_id": {
+      "$oid": "9c8d55a38b48964fd4bcaf8e"
+    },
+    "estPorteur": false,
+    "email": "amadou.mercier644@proton.me",
+    "anneeNaissance": 1983,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "214af809a67f1571b1a7fcc4"
+    },
+    "estPorteur": false,
+    "email": "karim.petit567@proton.me",
+    "anneeNaissance": 1994,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "d9ae5cbc06fca1a519933623"
+    },
+    "estPorteur": true,
+    "email": "hugo.dupont932@outlook.com",
+    "anneeNaissance": 1960,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "793989232752",
+      "dateAdhesion": {
+        "$date": "2024-11-16T20:27:02.537950+00:00"
+      },
+      "points": 2752
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0370a99054b625ed907cccfb"
+    },
+    "estPorteur": true,
+    "email": "fatou.lefebvre374@proton.me",
+    "anneeNaissance": 1961,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "036110679640",
+      "dateAdhesion": {
+        "$date": "2022-09-26T20:27:02.535940+00:00"
+      },
+      "points": 1794
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4b581540a41d21d7f282b0ad"
+    },
+    "estPorteur": true,
+    "email": "ethan.diallo404@yahoo.fr",
+    "anneeNaissance": 1950,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "477620274902",
+      "dateAdhesion": {
+        "$date": "2023-08-22T20:27:02.538160+00:00"
+      },
+      "points": 698
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b5888b8656d0313bbd943fbf"
+    },
+    "estPorteur": true,
+    "email": "léa.bernard463@yahoo.fr",
+    "anneeNaissance": 1999,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "316213466955",
+      "dateAdhesion": {
+        "$date": "2024-05-26T20:27:02.537196+00:00"
+      },
+      "points": 4509
+    }
+  },
+  {
+    "_id": {
+      "$oid": "82e10df9ceaaac24bb285827"
+    },
+    "estPorteur": false,
+    "email": "léa.lefebvre999@outlook.com",
+    "anneeNaissance": 1952,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "63c16c53bea96da4324d8b0a"
+    },
+    "estPorteur": true,
+    "email": "karim.lefebvre167@gmail.com",
+    "anneeNaissance": 1969,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "305925149655",
+      "dateAdhesion": {
+        "$date": "2022-01-22T20:27:02.536858+00:00"
+      },
+      "points": 3846
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f475850079828483822d9fb1"
+    },
+    "estPorteur": true,
+    "email": "léa.andre438@proton.me",
+    "anneeNaissance": 1970,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "602530272453",
+      "dateAdhesion": {
+        "$date": "2023-03-30T20:27:02.537168+00:00"
+      },
+      "points": 3783
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3c1429276e5bc1aa8102a855"
+    },
+    "estPorteur": true,
+    "email": "nadia.blanc731@gmail.com",
+    "anneeNaissance": 2007,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "986511228327",
+      "dateAdhesion": {
+        "$date": "2025-02-09T20:27:02.538101+00:00"
+      },
+      "points": 3901
+    }
+  },
+  {
+    "_id": {
+      "$oid": "3391430ec7e77ae14aa081f7"
+    },
+    "estPorteur": true,
+    "email": "clara.diallo780@yahoo.fr",
+    "anneeNaissance": 1957,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "804871221583",
+      "dateAdhesion": {
+        "$date": "2021-03-13T20:27:02.536271+00:00"
+      },
+      "points": 1001
+    }
+  },
+  {
+    "_id": {
+      "$oid": "46f037820a52815c018513ba"
+    },
+    "estPorteur": true,
+    "email": "emma.durand378@proton.me",
+    "anneeNaissance": 1971,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "280673275123",
+      "dateAdhesion": {
+        "$date": "2022-10-27T20:27:02.537733+00:00"
+      },
+      "points": 3706
+    }
+  },
+  {
+    "_id": {
+      "$oid": "77baa8e64343491bdb9a0b4e"
+    },
+    "estPorteur": true,
+    "email": "lina.sow937@gmail.com",
+    "anneeNaissance": 1956,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "183852105441",
+      "dateAdhesion": {
+        "$date": "2024-03-27T20:27:02.537438+00:00"
+      },
+      "points": 862
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f3cb72711c77d08013c5f29c"
+    },
+    "estPorteur": true,
+    "email": "awa.andre109@proton.me",
+    "anneeNaissance": 1976,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "580140245238",
+      "dateAdhesion": {
+        "$date": "2021-08-30T20:27:02.536614+00:00"
+      },
+      "points": 2837
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0bc50bd0afd086771ffa5aff"
+    },
+    "estPorteur": false,
+    "email": "emma.dupont994@outlook.com",
+    "anneeNaissance": 1986,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "c6d9c3c794538e2be677108f"
+    },
+    "estPorteur": true,
+    "email": "sophie.bernard144@yahoo.fr",
+    "anneeNaissance": 1962,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "593577814132",
+      "dateAdhesion": {
+        "$date": "2022-06-21T20:27:02.538032+00:00"
+      },
+      "points": 1604
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a36152c1417968b39e85ea25"
+    },
+    "estPorteur": true,
+    "email": "awa.martin407@yahoo.fr",
+    "anneeNaissance": 1993,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "676896857645",
+      "dateAdhesion": {
+        "$date": "2021-11-29T20:27:02.538262+00:00"
+      },
+      "points": 2207
+    }
+  },
+  {
+    "_id": {
+      "$oid": "02a2f883086c593dfa588396"
+    },
+    "estPorteur": true,
+    "email": "ethan.bernard137@yahoo.fr",
+    "anneeNaissance": 1971,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "621076125295",
+      "dateAdhesion": {
+        "$date": "2022-01-22T20:27:02.536682+00:00"
+      },
+      "points": 2811
+    }
+  },
+  {
+    "_id": {
+      "$oid": "a6d71cdd707ccd7347da5148"
+    },
+    "estPorteur": true,
+    "email": "sophie.ba558@proton.me",
+    "anneeNaissance": 1985,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "450845291880",
+      "dateAdhesion": {
+        "$date": "2024-08-04T20:27:02.535826+00:00"
+      },
+      "points": 3040
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eb2dec647ab6a90ab1621db9"
+    },
+    "estPorteur": true,
+    "email": "noah.guerin297@outlook.com",
+    "anneeNaissance": 2002,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "554566560423",
+      "dateAdhesion": {
+        "$date": "2021-09-10T20:27:02.536969+00:00"
+      },
+      "points": 2983
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b97380482bf1ba06031eb9dc"
+    },
+    "estPorteur": true,
+    "email": "léa.durand175@gmail.com",
+    "anneeNaissance": 1981,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "296200938206",
+      "dateAdhesion": {
+        "$date": "2021-08-16T20:27:02.536060+00:00"
+      },
+      "points": 2604
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eee610bacc99e4bf571b765d"
+    },
+    "estPorteur": false,
+    "email": "hugo.durand733@gmail.com",
+    "anneeNaissance": 2004,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "26a48cbaaa8405ac0f133e4e"
+    },
+    "estPorteur": true,
+    "email": "hugo.martin93@proton.me",
+    "anneeNaissance": 1984,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "342191517090",
+      "dateAdhesion": {
+        "$date": "2022-08-04T20:27:02.538081+00:00"
+      },
+      "points": 1794
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0cec6939cfa880dc4f5255d8"
+    },
+    "estPorteur": true,
+    "email": "inès.sow647@yahoo.fr",
+    "anneeNaissance": 2005,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "146593039371",
+      "dateAdhesion": {
+        "$date": "2023-08-15T20:27:02.536252+00:00"
+      },
+      "points": 4801
+    }
+  },
+  {
+    "_id": {
+      "$oid": "54fd9ff31fe5e9b61d20dccb"
+    },
+    "estPorteur": true,
+    "email": "amadou.meyer208@proton.me",
+    "anneeNaissance": 1968,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "047482549317",
+      "dateAdhesion": {
+        "$date": "2021-02-16T20:27:02.536405+00:00"
+      },
+      "points": 480
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e7a9085be6ad36c0fae888dd"
+    },
+    "estPorteur": false,
+    "email": "léa.dupont398@proton.me",
+    "anneeNaissance": 1973,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "1965a2544e4840806c788ab2"
+    },
+    "estPorteur": true,
+    "email": "sophie.garcia263@gmail.com",
+    "anneeNaissance": 1974,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "451276469540",
+      "dateAdhesion": {
+        "$date": "2021-01-20T20:27:02.538141+00:00"
+      },
+      "points": 1688
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4404ebf7b4bac66edf7cf5d9"
+    },
+    "estPorteur": true,
+    "email": "inès.lefebvre668@gmail.com",
+    "anneeNaissance": 1975,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "526266528098",
+      "dateAdhesion": {
+        "$date": "2025-01-31T20:27:02.538061+00:00"
+      },
+      "points": 825
+    }
+  },
+  {
+    "_id": {
+      "$oid": "32f44adbdbdc6bf3125a6f08"
+    },
+    "estPorteur": true,
+    "email": "fatou.kane302@proton.me",
+    "anneeNaissance": 1967,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "318706956439",
+      "dateAdhesion": {
+        "$date": "2025-01-07T20:27:02.537247+00:00"
+      },
+      "points": 4205
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bf7f261f41871f858160c658"
+    },
+    "estPorteur": true,
+    "email": "thomas.bernard862@yahoo.fr",
+    "anneeNaissance": 1993,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "767665431463",
+      "dateAdhesion": {
+        "$date": "2021-07-15T20:27:02.536498+00:00"
+      },
+      "points": 1921
+    }
+  },
+  {
+    "_id": {
+      "$oid": "53ed2d104210fc311ccd100c"
+    },
+    "estPorteur": false,
+    "email": "clara.bernard248@proton.me",
+    "anneeNaissance": 2005,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "dd1af4128063f9d6844e838b"
+    },
+    "estPorteur": false,
+    "email": "léa.durand481@gmail.com",
+    "anneeNaissance": 2003,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "fcd693a4f4ff26db941652fa"
+    },
+    "estPorteur": true,
+    "email": "hugo.blanc902@proton.me",
+    "anneeNaissance": 1976,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "880154884168",
+      "dateAdhesion": {
+        "$date": "2024-07-08T20:27:02.538199+00:00"
+      },
+      "points": 4190
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bdefd622f1c9a3b143bba5b3"
+    },
+    "estPorteur": true,
+    "email": "nadia.kane535@proton.me",
+    "anneeNaissance": 1987,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "396135902841",
+      "dateAdhesion": {
+        "$date": "2023-10-02T20:27:02.538121+00:00"
+      },
+      "points": 767
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c2b2fd77da269767ed7bf405"
+    },
+    "estPorteur": true,
+    "email": "emma.blanc827@yahoo.fr",
+    "anneeNaissance": 1988,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "927338798525",
+      "dateAdhesion": {
+        "$date": "2025-07-25T20:27:02.535869+00:00"
+      },
+      "points": 3594
+    }
+  },
+  {
+    "_id": {
+      "$oid": "655aadc5250a1e3707577204"
+    },
+    "estPorteur": true,
+    "email": "thomas.andre109@yahoo.fr",
+    "anneeNaissance": 1982,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "527271129028",
+      "dateAdhesion": {
+        "$date": "2021-03-13T20:27:02.535625+00:00"
+      },
+      "points": 57
+    }
+  },
+  {
+    "_id": {
+      "$oid": "74144106b8a1f9031a2ec407"
+    },
+    "estPorteur": true,
+    "email": "lina.lefebvre251@yahoo.fr",
+    "anneeNaissance": 1995,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "965332990646",
+      "dateAdhesion": {
+        "$date": "2022-04-18T20:27:02.537695+00:00"
+      },
+      "points": 2783
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1f3640a08ef3ba241b8655be"
+    },
+    "estPorteur": true,
+    "email": "noah.sow191@proton.me",
+    "anneeNaissance": 1976,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "931818136920",
+      "dateAdhesion": {
+        "$date": "2021-07-29T20:27:02.535593+00:00"
+      },
+      "points": 4367
+    }
+  },
+  {
+    "_id": {
+      "$oid": "d89ff4295595b92f424b7f20"
+    },
+    "estPorteur": true,
+    "email": "noah.blanc954@proton.me",
+    "anneeNaissance": 1961,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "169262970490",
+      "dateAdhesion": {
+        "$date": "2022-11-08T20:27:02.536152+00:00"
+      },
+      "points": 2940
+    }
+  },
+  {
+    "_id": {
+      "$oid": "4a8f649e0c7460840857ad56"
+    },
+    "estPorteur": false,
+    "email": "thomas.martin553@yahoo.fr",
+    "anneeNaissance": 1968,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "8f10b8c4e64e2e90f6637e21"
+    },
+    "estPorteur": false,
+    "email": "paul.bernard847@outlook.com",
+    "anneeNaissance": 1961,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "7abf493169e29498a587938b"
+    },
+    "estPorteur": false,
+    "email": "noah.bernard582@gmail.com",
+    "anneeNaissance": 1966,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "a69cda411b7c1e346810cfdd"
+    },
+    "estPorteur": false,
+    "email": "ethan.meyer463@proton.me",
+    "anneeNaissance": 2006,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "22eb882db9d3e38357c986ad"
+    },
+    "estPorteur": true,
+    "email": "lucas.bernard639@outlook.com",
+    "anneeNaissance": 1981,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "435958818230",
+      "dateAdhesion": {
+        "$date": "2024-10-29T20:27:02.535489+00:00"
+      },
+      "points": 2577
+    }
+  },
+  {
+    "_id": {
+      "$oid": "06a4b5941e0af9d4f2ecbe75"
+    },
+    "estPorteur": true,
+    "email": "julie.bernard210@yahoo.fr",
+    "anneeNaissance": 1984,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "259810226167",
+      "dateAdhesion": {
+        "$date": "2024-10-28T20:27:02.535383+00:00"
+      },
+      "points": 879
+    }
+  },
+  {
+    "_id": {
+      "$oid": "1609bc0a9df41c8b6df5023f"
+    },
+    "estPorteur": true,
+    "email": "noah.roux465@proton.me",
+    "anneeNaissance": 1952,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "025240943081",
+      "dateAdhesion": {
+        "$date": "2025-08-02T20:27:02.536348+00:00"
+      },
+      "points": 592
+    }
+  },
+  {
+    "_id": {
+      "$oid": "c260f13a2aeb52aafd492ccb"
+    },
+    "estPorteur": true,
+    "email": "fatou.kane927@outlook.com",
+    "anneeNaissance": 2006,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "292989289790",
+      "dateAdhesion": {
+        "$date": "2023-01-08T20:27:02.538289+00:00"
+      },
+      "points": 3429
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5ae15ad509ff2c7c940a73e7"
+    },
+    "estPorteur": true,
+    "email": "karim.guerin916@proton.me",
+    "anneeNaissance": 1967,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "971304367143",
+      "dateAdhesion": {
+        "$date": "2021-12-11T20:27:02.537649+00:00"
+      },
+      "points": 851
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e07b230630a1a401e65a143d"
+    },
+    "estPorteur": true,
+    "email": "paul.sow179@yahoo.fr",
+    "anneeNaissance": 1977,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "866357270838",
+      "dateAdhesion": {
+        "$date": "2021-03-29T20:27:02.537574+00:00"
+      },
+      "points": 2408
+    }
+  },
+  {
+    "_id": {
+      "$oid": "fd1bbcbf3c58789a2f562517"
+    },
+    "estPorteur": false,
+    "email": "sophie.dupont971@yahoo.fr",
+    "anneeNaissance": 1983,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "16a77ef290bbe0bd8e7d89f2"
+    },
+    "estPorteur": true,
+    "email": "paul.diallo904@proton.me",
+    "anneeNaissance": 1984,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "667662836519",
+      "dateAdhesion": {
+        "$date": "2021-09-07T20:27:02.536369+00:00"
+      },
+      "points": 2031
+    }
+  },
+  {
+    "_id": {
+      "$oid": "132ceae5e43911649112c52a"
+    },
+    "estPorteur": false,
+    "email": "lucas.garcia910@yahoo.fr",
+    "anneeNaissance": 1960,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "4e1c0b9bb18f442bfb07ef91"
+    },
+    "estPorteur": true,
+    "email": "amadou.girard208@gmail.com",
+    "anneeNaissance": 1985,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "193323305466",
+      "dateAdhesion": {
+        "$date": "2020-11-01T20:27:02.535524+00:00"
+      },
+      "points": 2973
+    }
+  },
+  {
+    "_id": {
+      "$oid": "decc5e7b08e36cce8fcde5fb"
+    },
+    "estPorteur": true,
+    "email": "inès.ba384@gmail.com",
+    "anneeNaissance": 1996,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "375299825787",
+      "dateAdhesion": {
+        "$date": "2025-09-16T20:27:02.535767+00:00"
+      },
+      "points": 4230
+    }
+  },
+  {
+    "_id": {
+      "$oid": "eb0ea02e0b26520e893ef952"
+    },
+    "estPorteur": true,
+    "email": "ethan.garcia551@gmail.com",
+    "anneeNaissance": 1962,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "619628514054",
+      "dateAdhesion": {
+        "$date": "2024-06-08T20:27:02.537909+00:00"
+      },
+      "points": 3215
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8ae5d537369bf143bb69c175"
+    },
+    "estPorteur": true,
+    "email": "sophie.girard828@outlook.com",
+    "anneeNaissance": 2005,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "852321570756",
+      "dateAdhesion": {
+        "$date": "2024-05-11T20:27:02.536121+00:00"
+      },
+      "points": 1032
+    }
+  },
+  {
+    "_id": {
+      "$oid": "f46ae878c58abd33db072cec"
+    },
+    "estPorteur": true,
+    "email": "moussa.andre265@yahoo.fr",
+    "anneeNaissance": 1995,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "562913277157",
+      "dateAdhesion": {
+        "$date": "2021-04-19T20:27:02.535406+00:00"
+      },
+      "points": 4496
+    }
+  },
+  {
+    "_id": {
+      "$oid": "14fe1f012b2cfcb201b7a892"
+    },
+    "estPorteur": false,
+    "email": "inès.sow998@gmail.com",
+    "anneeNaissance": 1971,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "5d56a192e78f698261bdafbc"
+    },
+    "estPorteur": false,
+    "email": "fatou.petit383@gmail.com",
+    "anneeNaissance": 1962,
+    "sexe": "H"
+  },
+  {
+    "_id": {
+      "$oid": "0cb53ff46351847331fbb3fb"
+    },
+    "estPorteur": true,
+    "email": "ethan.mercier188@gmail.com",
+    "anneeNaissance": 1987,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "524169275782",
+      "dateAdhesion": {
+        "$date": "2024-04-25T20:27:02.536531+00:00"
+      },
+      "points": 199
+    }
+  },
+  {
+    "_id": {
+      "$oid": "519e3677f1b78716b9f66a7b"
+    },
+    "estPorteur": false,
+    "email": "clara.fournier316@gmail.com",
+    "anneeNaissance": 1956,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "43e3ac9ee86f9e8d05be51f5"
+    },
+    "estPorteur": true,
+    "email": "karim.ba540@gmail.com",
+    "anneeNaissance": 2001,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "916490868728",
+      "dateAdhesion": {
+        "$date": "2024-07-21T20:27:02.537668+00:00"
+      },
+      "points": 574
+    }
+  },
+  {
+    "_id": {
+      "$oid": "b18ba7ba2dbf465e33efa6af"
+    },
+    "estPorteur": true,
+    "email": "paul.meyer219@outlook.com",
+    "anneeNaissance": 1988,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "639319353992",
+      "dateAdhesion": {
+        "$date": "2022-05-10T20:27:02.536310+00:00"
+      },
+      "points": 1011
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e6261f04c96083c491fdacae"
+    },
+    "estPorteur": false,
+    "email": "julie.kane699@gmail.com",
+    "anneeNaissance": 2003,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "b93262a5a55a760fd10e86c1"
+    },
+    "estPorteur": true,
+    "email": "lucas.girard366@gmail.com",
+    "anneeNaissance": 2007,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "749052387567",
+      "dateAdhesion": {
+        "$date": "2025-07-31T20:27:02.535796+00:00"
+      },
+      "points": 425
+    }
+  },
+  {
+    "_id": {
+      "$oid": "56cb257a01d4b61033825aa5"
+    },
+    "estPorteur": true,
+    "email": "thomas.girard491@gmail.com",
+    "anneeNaissance": 1976,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "384157382148",
+      "dateAdhesion": {
+        "$date": "2024-11-26T20:27:02.536736+00:00"
+      },
+      "points": 127
+    }
+  },
+  {
+    "_id": {
+      "$oid": "e66afbe7f5d7eb0c7fc87eef"
+    },
+    "estPorteur": true,
+    "email": "sophie.mercier652@yahoo.fr",
+    "anneeNaissance": 1970,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "212389392057",
+      "dateAdhesion": {
+        "$date": "2022-04-21T20:27:02.536889+00:00"
+      },
+      "points": 1468
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6d9c5ab91aae1d090bf1e097"
+    },
+    "estPorteur": false,
+    "email": "nadia.dupont503@yahoo.fr",
+    "anneeNaissance": 1952,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "8fbe110b8d37cec7efd531e9"
+    },
+    "estPorteur": true,
+    "email": "noah.durand718@yahoo.fr",
+    "anneeNaissance": 1989,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "848022090565",
+      "dateAdhesion": {
+        "$date": "2022-03-27T20:27:02.535469+00:00"
+      },
+      "points": 680
+    }
+  },
+  {
+    "_id": {
+      "$oid": "761e8795b5661aac099f633c"
+    },
+    "estPorteur": false,
+    "email": "inès.petit776@gmail.com",
+    "anneeNaissance": 1950,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "35be3ecfb3443db558fa6141"
+    },
+    "estPorteur": true,
+    "email": "léa.petit148@outlook.com",
+    "anneeNaissance": 1970,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "625139750971",
+      "dateAdhesion": {
+        "$date": "2024-12-25T20:27:02.537890+00:00"
+      },
+      "points": 920
+    }
+  },
+  {
+    "_id": {
+      "$oid": "bb900cad6e0528462868bb73"
+    },
+    "estPorteur": true,
+    "email": "léa.petit926@yahoo.fr",
+    "anneeNaissance": 1990,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "468390519763",
+      "dateAdhesion": {
+        "$date": "2024-11-01T20:27:02.538012+00:00"
+      },
+      "points": 3656
+    }
+  },
+  {
+    "_id": {
+      "$oid": "ef944ef8e41d28cb40597cfb"
+    },
+    "estPorteur": true,
+    "email": "lucas.durand976@gmail.com",
+    "anneeNaissance": 1983,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "403232071138",
+      "dateAdhesion": {
+        "$date": "2024-03-02T20:27:02.535997+00:00"
+      },
+      "points": 4646
+    }
+  },
+  {
+    "_id": {
+      "$oid": "357172497d4f2bf4018698b0"
+    },
+    "estPorteur": true,
+    "email": "lina.dupont761@proton.me",
+    "anneeNaissance": 1965,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "351151133620",
+      "dateAdhesion": {
+        "$date": "2025-06-18T20:27:02.536713+00:00"
+      },
+      "points": 2841
+    }
+  },
+  {
+    "_id": {
+      "$oid": "8dfbc53fa19a9ce449c9097b"
+    },
+    "estPorteur": false,
+    "email": "lucas.blanc478@outlook.com",
+    "anneeNaissance": 1999,
+    "sexe": "F"
+  },
+  {
+    "_id": {
+      "$oid": "4a5022161eb630dbc0ddf1f9"
+    },
+    "estPorteur": false,
+    "email": "noah.andre322@outlook.com",
+    "anneeNaissance": 1959,
+    "sexe": "X"
+  },
+  {
+    "_id": {
+      "$oid": "7acf0f9b879e36a132eeb5c4"
+    },
+    "estPorteur": true,
+    "email": "moussa.martin132@proton.me",
+    "anneeNaissance": 1995,
+    "sexe": "F",
+    "carte": {
+      "numeroCarte": "014746115181",
+      "dateAdhesion": {
+        "$date": "2025-10-16T20:27:02.536290+00:00"
+      },
+      "points": 1747
+    }
+  },
+  {
+    "_id": {
+      "$oid": "0508c8ae4e3da16e9ad760c6"
+    },
+    "estPorteur": true,
+    "email": "thomas.andre66@gmail.com",
+    "anneeNaissance": 1981,
+    "sexe": "X",
+    "carte": {
+      "numeroCarte": "193706259167",
+      "dateAdhesion": {
+        "$date": "2025-02-26T20:27:02.536657+00:00"
+      },
+      "points": 701
+    }
+  },
+  {
+    "_id": {
+      "$oid": "7693e23d6f1cc730ece2a235"
+    },
+    "estPorteur": true,
+    "email": "emma.roux513@yahoo.fr",
+    "anneeNaissance": 2005,
+    "sexe": "H",
+    "carte": {
+      "numeroCarte": "373229089982",
+      "dateAdhesion": {
+        "$date": "2021-11-14T20:27:02.537298+00:00"
+      },
+      "points": 3872
+    }
+  }
+]

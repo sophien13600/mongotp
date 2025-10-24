@@ -1,0 +1,2002 @@
+[
+  {
+    "_id": {
+      "$oid": "061431dfca5cd3216449bd89"
+    },
+    "reference": "2888109928991",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Barilla",
+    "categorie": "Textile",
+    "prixBase": 5.06
+  },
+  {
+    "_id": {
+      "$oid": "9eb9a651b13fbd5327c43f7f"
+    },
+    "reference": "5964572310825",
+    "libelle": "Huile d'olive 500g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 2.03
+  },
+  {
+    "_id": {
+      "$oid": "5c575f0f48be72dfca1dd2ae"
+    },
+    "reference": "0105553887953",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Carrefour",
+    "categorie": "Textile",
+    "prixBase": 27.52
+  },
+  {
+    "_id": {
+      "$oid": "6fd0b48b92b61340fdcf265b"
+    },
+    "reference": "5671615861341",
+    "libelle": "Pâtes spaghetti 250g",
+    "marque": "Président",
+    "categorie": "Épicerie",
+    "prixBase": 3.58
+  },
+  {
+    "_id": {
+      "$oid": "622dede1d139ccabb2a530ec"
+    },
+    "reference": "5034542597538",
+    "libelle": "Pull laine TXL",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 34.18
+  },
+  {
+    "_id": {
+      "$oid": "6a7f7956efafee8d92ce3ac4"
+    },
+    "reference": "0268794934283",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "Président",
+    "categorie": "Épicerie",
+    "prixBase": 6.66
+  },
+  {
+    "_id": {
+      "$oid": "2c2be45b449d45e87696196e"
+    },
+    "reference": "2259250130531",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Frais",
+    "prixBase": 3.28
+  },
+  {
+    "_id": {
+      "$oid": "3173d4795e4bc0f9dd54679e"
+    },
+    "reference": "2932823711420",
+    "libelle": "Pull laine TM",
+    "marque": "Barilla",
+    "categorie": "Textile",
+    "prixBase": 23.89
+  },
+  {
+    "_id": {
+      "$oid": "7d28898746602d9f25ea2d93"
+    },
+    "reference": "0245277417755",
+    "libelle": "Chaussettes sport TL",
+    "marque": "Reflets de France",
+    "categorie": "Textile",
+    "prixBase": 38.56
+  },
+  {
+    "_id": {
+      "$oid": "88230bbeec4575a6e47dbc58"
+    },
+    "reference": "5686037393295",
+    "libelle": "Casque audio v3",
+    "marque": "Barilla",
+    "categorie": "Électronique",
+    "prixBase": 116.62
+  },
+  {
+    "_id": {
+      "$oid": "0eae1708485f557458cf1cd8"
+    },
+    "reference": "5213741526478",
+    "libelle": "Batterie externe v4",
+    "marque": "Président",
+    "categorie": "Électronique",
+    "prixBase": 77.73
+  },
+  {
+    "_id": {
+      "$oid": "174ed73f1b467022ff96ac66"
+    },
+    "reference": "0834474286523",
+    "libelle": "Pâtes spaghetti 250g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Épicerie",
+    "prixBase": 7.65
+  },
+  {
+    "_id": {
+      "$oid": "7b3e10b1ca3569d7e96a9f8f"
+    },
+    "reference": "8952778122605",
+    "libelle": "Huile d'olive 1000g",
+    "marque": "Nestlé",
+    "categorie": "Épicerie",
+    "prixBase": 5.51
+  },
+  {
+    "_id": {
+      "$oid": "6a0675487d4cc6027571faa6"
+    },
+    "reference": "6681846296253",
+    "libelle": "Clé USB 64Go v1",
+    "marque": "Danone",
+    "categorie": "Électronique",
+    "prixBase": 29.55
+  },
+  {
+    "_id": {
+      "$oid": "dae30f01c2534a68767e0126"
+    },
+    "reference": "5822779931617",
+    "libelle": "Chaussettes sport TS",
+    "marque": "Reflets de France",
+    "categorie": "Textile",
+    "prixBase": 9.14
+  },
+  {
+    "_id": {
+      "$oid": "e74777528937708bb3790282"
+    },
+    "reference": "8863557938670",
+    "libelle": "Clé USB 64Go v1",
+    "marque": "Reflets de France",
+    "categorie": "Électronique",
+    "prixBase": 101.85
+  },
+  {
+    "_id": {
+      "$oid": "3fc606b445982e02828dea34"
+    },
+    "reference": "2989948857942",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "BioVillage",
+    "categorie": "Textile",
+    "prixBase": 15.33
+  },
+  {
+    "_id": {
+      "$oid": "2f7ec7c9a803e44fd4e38472"
+    },
+    "reference": "9945256413908",
+    "libelle": "Beurre doux 300g",
+    "marque": "Nestlé",
+    "categorie": "Frais",
+    "prixBase": 3.22
+  },
+  {
+    "_id": {
+      "$oid": "1879e6e266594a592cb7de50"
+    },
+    "reference": "8903762444037",
+    "libelle": "Riz basmati 250g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 6.99
+  },
+  {
+    "_id": {
+      "$oid": "b94d26e5043450127efb5df3"
+    },
+    "reference": "9436958908223",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Priméal",
+    "categorie": "Frais",
+    "prixBase": 3.65
+  },
+  {
+    "_id": {
+      "$oid": "c4afe9437fa26b069fd1fe76"
+    },
+    "reference": "1989651330388",
+    "libelle": "Tee-shirt coton TM",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 13.28
+  },
+  {
+    "_id": {
+      "$oid": "953098d20acdb9efc452d2b6"
+    },
+    "reference": "0062913459492",
+    "libelle": "Batterie externe v2",
+    "marque": "Priméal",
+    "categorie": "Électronique",
+    "prixBase": 66.81
+  },
+  {
+    "_id": {
+      "$oid": "1999c021b28261e1498ad856"
+    },
+    "reference": "9763024697054",
+    "libelle": "Pâtes spaghetti 250g",
+    "marque": "Panzani",
+    "categorie": "Épicerie",
+    "prixBase": 2.38
+  },
+  {
+    "_id": {
+      "$oid": "4bbbab135a86a7f97afbdbff"
+    },
+    "reference": "9916828471441",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Reflets de France",
+    "categorie": "Frais",
+    "prixBase": 6.27
+  },
+  {
+    "_id": {
+      "$oid": "b4b26b2d3d1e57165510537a"
+    },
+    "reference": "8376525026381",
+    "libelle": "Yaourt nature 100g",
+    "marque": "Priméal",
+    "categorie": "Frais",
+    "prixBase": 5.19
+  },
+  {
+    "_id": {
+      "$oid": "202b4ede117250c66291ceef"
+    },
+    "reference": "1267319658365",
+    "libelle": "Riz basmati 500g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 3.48
+  },
+  {
+    "_id": {
+      "$oid": "1c2e8baf2a05ddce99bf7fac"
+    },
+    "reference": "4533138596072",
+    "libelle": "Beurre doux 300g",
+    "marque": "Barilla",
+    "categorie": "Frais",
+    "prixBase": 1.15
+  },
+  {
+    "_id": {
+      "$oid": "e192c4a584342ba6cf962984"
+    },
+    "reference": "4901139703269",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Reflets de France",
+    "categorie": "Textile",
+    "prixBase": 8.24
+  },
+  {
+    "_id": {
+      "$oid": "1065a8bbade820d9168d5aac"
+    },
+    "reference": "2295436784888",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Danone",
+    "categorie": "Frais",
+    "prixBase": 5.72
+  },
+  {
+    "_id": {
+      "$oid": "71b05e1402467e53710453c7"
+    },
+    "reference": "3720175319665",
+    "libelle": "Casque audio v1",
+    "marque": "Danone",
+    "categorie": "Électronique",
+    "prixBase": 15.6
+  },
+  {
+    "_id": {
+      "$oid": "08f81fac0ab7e8b40d05e0fe"
+    },
+    "reference": "8266959785559",
+    "libelle": "Clé USB 64Go v3",
+    "marque": "Priméal",
+    "categorie": "Électronique",
+    "prixBase": 69.51
+  },
+  {
+    "_id": {
+      "$oid": "8c6505a3f829a3858b0f82b4"
+    },
+    "reference": "0096189422934",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Barilla",
+    "categorie": "Textile",
+    "prixBase": 32.1
+  },
+  {
+    "_id": {
+      "$oid": "0faf3e6a7a29dd7853b8897a"
+    },
+    "reference": "2714209617137",
+    "libelle": "Beurre doux 100g",
+    "marque": "Nestlé",
+    "categorie": "Frais",
+    "prixBase": 1.21
+  },
+  {
+    "_id": {
+      "$oid": "9bc26ceff7dbdf2cf974eef9"
+    },
+    "reference": "7898479156194",
+    "libelle": "Yaourt nature 100g",
+    "marque": "Carrefour",
+    "categorie": "Frais",
+    "prixBase": 0.94
+  },
+  {
+    "_id": {
+      "$oid": "39763416e2ea33be52271a50"
+    },
+    "reference": "1351471139567",
+    "libelle": "Riz basmati 1000g",
+    "marque": "Herta",
+    "categorie": "Épicerie",
+    "prixBase": 7.93
+  },
+  {
+    "_id": {
+      "$oid": "6293779241dcd4d9bca6f5e8"
+    },
+    "reference": "5506594468231",
+    "libelle": "Tee-shirt coton TM",
+    "marque": "Nestlé",
+    "categorie": "Textile",
+    "prixBase": 23.22
+  },
+  {
+    "_id": {
+      "$oid": "5fa7fa8f87eaf383771577d2"
+    },
+    "reference": "7098875248055",
+    "libelle": "Batterie externe v3",
+    "marque": "BioVillage",
+    "categorie": "Électronique",
+    "prixBase": 87.1
+  },
+  {
+    "_id": {
+      "$oid": "d88b6f1844833dfa577f006d"
+    },
+    "reference": "5027142885636",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 13.74
+  },
+  {
+    "_id": {
+      "$oid": "30a21f80225c5c85b1a904b0"
+    },
+    "reference": "3421653923989",
+    "libelle": "Tee-shirt coton TS",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 30.12
+  },
+  {
+    "_id": {
+      "$oid": "a1d3f07c738e858a85870e36"
+    },
+    "reference": "1048563280237",
+    "libelle": "Chaussettes sport TS",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 22.52
+  },
+  {
+    "_id": {
+      "$oid": "4674a7729116f3904857edf6"
+    },
+    "reference": "1075961048806",
+    "libelle": "Pull laine TM",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 12.8
+  },
+  {
+    "_id": {
+      "$oid": "434d9b23ae369a5439e6d02e"
+    },
+    "reference": "2867170703160",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Panzani",
+    "categorie": "Frais",
+    "prixBase": 1.19
+  },
+  {
+    "_id": {
+      "$oid": "54f4d647a7d94053664221e5"
+    },
+    "reference": "1639738600015",
+    "libelle": "Pull laine TM",
+    "marque": "Danone",
+    "categorie": "Textile",
+    "prixBase": 9.72
+  },
+  {
+    "_id": {
+      "$oid": "5c1a64ecbb037c994ca16999"
+    },
+    "reference": "8700090168519",
+    "libelle": "Huile d'olive 250g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Épicerie",
+    "prixBase": 2.02
+  },
+  {
+    "_id": {
+      "$oid": "b196f79e0eff624c348b2d8d"
+    },
+    "reference": "9486227681046",
+    "libelle": "Beurre doux 400g",
+    "marque": "Nestlé",
+    "categorie": "Frais",
+    "prixBase": 2.97
+  },
+  {
+    "_id": {
+      "$oid": "aeac576011a61cfbdb8c9074"
+    },
+    "reference": "2297800248641",
+    "libelle": "Casque audio v2",
+    "marque": "Carrefour",
+    "categorie": "Électronique",
+    "prixBase": 113.56
+  },
+  {
+    "_id": {
+      "$oid": "be3dd821b6f1b082d42da34e"
+    },
+    "reference": "7047479108210",
+    "libelle": "Riz basmati 750g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 1.6
+  },
+  {
+    "_id": {
+      "$oid": "c76c33ea3d6e65543c072813"
+    },
+    "reference": "4334848402885",
+    "libelle": "Fromage emmental 200g",
+    "marque": "BioVillage",
+    "categorie": "Frais",
+    "prixBase": 2.4
+  },
+  {
+    "_id": {
+      "$oid": "1e920a8c0239d25c5001f388"
+    },
+    "reference": "7077660631642",
+    "libelle": "Yaourt nature 300g",
+    "marque": "Panzani",
+    "categorie": "Frais",
+    "prixBase": 2.65
+  },
+  {
+    "_id": {
+      "$oid": "7aa94ca4120d703c0d5c1f37"
+    },
+    "reference": "0160334645783",
+    "libelle": "Batterie externe v4",
+    "marque": "Panzani",
+    "categorie": "Électronique",
+    "prixBase": 86.78
+  },
+  {
+    "_id": {
+      "$oid": "ddcee05c508e388016373ab6"
+    },
+    "reference": "7417369172320",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 3.85
+  },
+  {
+    "_id": {
+      "$oid": "de26c8f1bf59ea440f9e89ee"
+    },
+    "reference": "0381342564280",
+    "libelle": "Yaourt nature 300g",
+    "marque": "Danone",
+    "categorie": "Frais",
+    "prixBase": 3.8
+  },
+  {
+    "_id": {
+      "$oid": "41ad9e8f358442b8a551cda2"
+    },
+    "reference": "3935423181226",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "Reflets de France",
+    "categorie": "Épicerie",
+    "prixBase": 5.87
+  },
+  {
+    "_id": {
+      "$oid": "e2d91e1f69886f925e6eb4ac"
+    },
+    "reference": "5284617414512",
+    "libelle": "Riz basmati 250g",
+    "marque": "Priméal",
+    "categorie": "Épicerie",
+    "prixBase": 2.99
+  },
+  {
+    "_id": {
+      "$oid": "7a347523c6d531d55a3ce3c2"
+    },
+    "reference": "4974473750808",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 4.56
+  },
+  {
+    "_id": {
+      "$oid": "579be18fd0e96e20efa1626f"
+    },
+    "reference": "0555784394369",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Yoplait",
+    "categorie": "Frais",
+    "prixBase": 4.67
+  },
+  {
+    "_id": {
+      "$oid": "264ac2ca8759c5f1bfe0d10f"
+    },
+    "reference": "1304136001351",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Panzani",
+    "categorie": "Textile",
+    "prixBase": 28.17
+  },
+  {
+    "_id": {
+      "$oid": "96aec37b005e6552b0860490"
+    },
+    "reference": "7403807511607",
+    "libelle": "Batterie externe v3",
+    "marque": "Panzani",
+    "categorie": "Électronique",
+    "prixBase": 84.02
+  },
+  {
+    "_id": {
+      "$oid": "363a9676693376fd31605e0c"
+    },
+    "reference": "7117798226550",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Priméal",
+    "categorie": "Épicerie",
+    "prixBase": 2.84
+  },
+  {
+    "_id": {
+      "$oid": "3ff3f02a8bfdf65a5e359757"
+    },
+    "reference": "7364143447820",
+    "libelle": "Casque audio v4",
+    "marque": "Herta",
+    "categorie": "Électronique",
+    "prixBase": 96.39
+  },
+  {
+    "_id": {
+      "$oid": "59a8d44ed59b0cf28195e414"
+    },
+    "reference": "1294272159878",
+    "libelle": "Huile d'olive 1000g",
+    "marque": "Yoplait",
+    "categorie": "Épicerie",
+    "prixBase": 3.22
+  },
+  {
+    "_id": {
+      "$oid": "10b5fee03c7fad0df9aed2a9"
+    },
+    "reference": "9972821884459",
+    "libelle": "Clé USB 64Go v4",
+    "marque": "Danone",
+    "categorie": "Électronique",
+    "prixBase": 85.97
+  },
+  {
+    "_id": {
+      "$oid": "fb0f59ec3e2b16ecdc04345c"
+    },
+    "reference": "7776781048833",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "BioVillage",
+    "categorie": "Textile",
+    "prixBase": 26.82
+  },
+  {
+    "_id": {
+      "$oid": "89e0be219ccd17a1cad87955"
+    },
+    "reference": "0241320649243",
+    "libelle": "Pull laine TXL",
+    "marque": "Reflets de France",
+    "categorie": "Textile",
+    "prixBase": 19.74
+  },
+  {
+    "_id": {
+      "$oid": "7248820d8d214237f9748245"
+    },
+    "reference": "0251118252825",
+    "libelle": "Batterie externe v4",
+    "marque": "Carrefour",
+    "categorie": "Électronique",
+    "prixBase": 78.76
+  },
+  {
+    "_id": {
+      "$oid": "d4637e4db3ee36641cd7dc7c"
+    },
+    "reference": "6632335015106",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Danone",
+    "categorie": "Textile",
+    "prixBase": 20.74
+  },
+  {
+    "_id": {
+      "$oid": "d63ef830b887409b9307bdaa"
+    },
+    "reference": "8876580318932",
+    "libelle": "Beurre doux 100g",
+    "marque": "Reflets de France",
+    "categorie": "Frais",
+    "prixBase": 1.2
+  },
+  {
+    "_id": {
+      "$oid": "cd098b36c65bdfeafcebcd9a"
+    },
+    "reference": "4837202373854",
+    "libelle": "Huile d'olive 1000g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Épicerie",
+    "prixBase": 7.24
+  },
+  {
+    "_id": {
+      "$oid": "3a3e9c9d19f6486aafba4326"
+    },
+    "reference": "9130147010352",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Barilla",
+    "categorie": "Frais",
+    "prixBase": 3.06
+  },
+  {
+    "_id": {
+      "$oid": "2120ea93a9aaf59f2089f150"
+    },
+    "reference": "1861863832984",
+    "libelle": "Riz basmati 250g",
+    "marque": "Barilla",
+    "categorie": "Épicerie",
+    "prixBase": 2.25
+  },
+  {
+    "_id": {
+      "$oid": "d1cfc9ee094027d78d7157e8"
+    },
+    "reference": "7476038549996",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 10.78
+  },
+  {
+    "_id": {
+      "$oid": "0ea151047ea88c5a1534e50d"
+    },
+    "reference": "5428000525638",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Barilla",
+    "categorie": "Textile",
+    "prixBase": 15.21
+  },
+  {
+    "_id": {
+      "$oid": "d5b51cc227ee096abae56c87"
+    },
+    "reference": "2509439824841",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Danone",
+    "categorie": "Textile",
+    "prixBase": 18.15
+  },
+  {
+    "_id": {
+      "$oid": "357b1929383ca7119337ff6f"
+    },
+    "reference": "7402121575580",
+    "libelle": "Riz basmati 1000g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 2.62
+  },
+  {
+    "_id": {
+      "$oid": "d060864350c8b76af30c0bb4"
+    },
+    "reference": "4358230607487",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "Reflets de France",
+    "categorie": "Épicerie",
+    "prixBase": 3.73
+  },
+  {
+    "_id": {
+      "$oid": "762e3328aa81f25421acea2d"
+    },
+    "reference": "5420378444636",
+    "libelle": "Huile d'olive 250g",
+    "marque": "Reflets de France",
+    "categorie": "Épicerie",
+    "prixBase": 6.81
+  },
+  {
+    "_id": {
+      "$oid": "079f24a53040290c6c753815"
+    },
+    "reference": "1703820191644",
+    "libelle": "Riz basmati 1000g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 5.05
+  },
+  {
+    "_id": {
+      "$oid": "a44ba5774e4b2a08f0c8562c"
+    },
+    "reference": "3952952542893",
+    "libelle": "Huile d'olive 750g",
+    "marque": "Yoplait",
+    "categorie": "Épicerie",
+    "prixBase": 6.53
+  },
+  {
+    "_id": {
+      "$oid": "cbf94eac5129858e06f41eaa"
+    },
+    "reference": "1963615128318",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Carrefour",
+    "categorie": "Textile",
+    "prixBase": 11.69
+  },
+  {
+    "_id": {
+      "$oid": "a9baabe4ce8ef7ff3c93111c"
+    },
+    "reference": "5973782709325",
+    "libelle": "Riz basmati 1000g",
+    "marque": "Panzani",
+    "categorie": "Épicerie",
+    "prixBase": 2.19
+  },
+  {
+    "_id": {
+      "$oid": "e86eced46987bf44abe7c988"
+    },
+    "reference": "7393804804180",
+    "libelle": "Clé USB 64Go v1",
+    "marque": "Mon Petit Marché",
+    "categorie": "Électronique",
+    "prixBase": 31.36
+  },
+  {
+    "_id": {
+      "$oid": "259c1cf2d65eed7fbd882a1e"
+    },
+    "reference": "3057120219501",
+    "libelle": "Pull laine TL",
+    "marque": "Carrefour",
+    "categorie": "Textile",
+    "prixBase": 19.2
+  },
+  {
+    "_id": {
+      "$oid": "c313a542968efb43cbce3453"
+    },
+    "reference": "7640468754486",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "Fleury Michon",
+    "categorie": "Épicerie",
+    "prixBase": 4.61
+  },
+  {
+    "_id": {
+      "$oid": "765ee68e9647ab36b0084041"
+    },
+    "reference": "0817765999740",
+    "libelle": "Batterie externe v3",
+    "marque": "Barilla",
+    "categorie": "Électronique",
+    "prixBase": 30.39
+  },
+  {
+    "_id": {
+      "$oid": "086ea8435b2e0ee05c3b59e8"
+    },
+    "reference": "8156067875269",
+    "libelle": "Clé USB 64Go v1",
+    "marque": "Priméal",
+    "categorie": "Électronique",
+    "prixBase": 60.79
+  },
+  {
+    "_id": {
+      "$oid": "96458c0da216a7d2b5fcc6bf"
+    },
+    "reference": "5972121123096",
+    "libelle": "Riz basmati 750g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 2.63
+  },
+  {
+    "_id": {
+      "$oid": "33522bd884aa3a09b356ffd3"
+    },
+    "reference": "2205892180234",
+    "libelle": "Casque audio v4",
+    "marque": "Reflets de France",
+    "categorie": "Électronique",
+    "prixBase": 33.61
+  },
+  {
+    "_id": {
+      "$oid": "0809ec35bf0167d55c19f401"
+    },
+    "reference": "9078475505299",
+    "libelle": "Riz basmati 500g",
+    "marque": "Herta",
+    "categorie": "Épicerie",
+    "prixBase": 6.16
+  },
+  {
+    "_id": {
+      "$oid": "95e499277d12e9f476ae46f6"
+    },
+    "reference": "7631519299990",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 7.58
+  },
+  {
+    "_id": {
+      "$oid": "abe758092df1d5c35c6b579c"
+    },
+    "reference": "0381752133380",
+    "libelle": "Casque audio v4",
+    "marque": "Priméal",
+    "categorie": "Électronique",
+    "prixBase": 25.07
+  },
+  {
+    "_id": {
+      "$oid": "0cadd25df38a3efffad58b64"
+    },
+    "reference": "6169385771713",
+    "libelle": "Tee-shirt coton TS",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 39.26
+  },
+  {
+    "_id": {
+      "$oid": "e5c665442b5ef43b72b3c1cd"
+    },
+    "reference": "1075776102400",
+    "libelle": "Huile d'olive 500g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 6.81
+  },
+  {
+    "_id": {
+      "$oid": "cf0819c931c99fbf9d1ff8b3"
+    },
+    "reference": "8178093334239",
+    "libelle": "Riz basmati 750g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 7.37
+  },
+  {
+    "_id": {
+      "$oid": "d892f4517ba130931063b872"
+    },
+    "reference": "5054222625080",
+    "libelle": "Riz basmati 1000g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 1.8
+  },
+  {
+    "_id": {
+      "$oid": "b1bf4091dcf6af6b035c2401"
+    },
+    "reference": "3262401048412",
+    "libelle": "Pâtes spaghetti 250g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 1.24
+  },
+  {
+    "_id": {
+      "$oid": "13fa90042f81e64cb894b478"
+    },
+    "reference": "6447188888829",
+    "libelle": "Clé USB 64Go v4",
+    "marque": "Nestlé",
+    "categorie": "Électronique",
+    "prixBase": 62.7
+  },
+  {
+    "_id": {
+      "$oid": "65e90fb8e9a4e0336f4901b3"
+    },
+    "reference": "8264250212559",
+    "libelle": "Fromage emmental 400g",
+    "marque": "Reflets de France",
+    "categorie": "Frais",
+    "prixBase": 4.93
+  },
+  {
+    "_id": {
+      "$oid": "7ff285b0f3a408bf5af57968"
+    },
+    "reference": "1128471941417",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Barilla",
+    "categorie": "Épicerie",
+    "prixBase": 2.78
+  },
+  {
+    "_id": {
+      "$oid": "03db5e8af031382ef90607d2"
+    },
+    "reference": "3634460151167",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 24.24
+  },
+  {
+    "_id": {
+      "$oid": "62b35545bdcb1670f0d1cb48"
+    },
+    "reference": "6549235723220",
+    "libelle": "Clé USB 64Go v2",
+    "marque": "Herta",
+    "categorie": "Électronique",
+    "prixBase": 115.44
+  },
+  {
+    "_id": {
+      "$oid": "6402ff02786141454dd6de33"
+    },
+    "reference": "3936290897249",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Président",
+    "categorie": "Frais",
+    "prixBase": 2.69
+  },
+  {
+    "_id": {
+      "$oid": "bba53dd15f0002f32acca749"
+    },
+    "reference": "3461251844150",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Herta",
+    "categorie": "Frais",
+    "prixBase": 3.11
+  },
+  {
+    "_id": {
+      "$oid": "4b1c350af02fa1763868acdf"
+    },
+    "reference": "5727919553815",
+    "libelle": "Pull laine TXL",
+    "marque": "Priméal",
+    "categorie": "Textile",
+    "prixBase": 25.33
+  },
+  {
+    "_id": {
+      "$oid": "fa0aef0407d762d9304618ac"
+    },
+    "reference": "4807466630015",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 29.14
+  },
+  {
+    "_id": {
+      "$oid": "887e0bc0bf6b8e69a97e67f6"
+    },
+    "reference": "1463001579228",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Président",
+    "categorie": "Frais",
+    "prixBase": 5.34
+  },
+  {
+    "_id": {
+      "$oid": "23fccc2f1da527e11ff1eba0"
+    },
+    "reference": "3826119324503",
+    "libelle": "Chaussettes sport TL",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 34.18
+  },
+  {
+    "_id": {
+      "$oid": "6e14f8f9f9df807943776d13"
+    },
+    "reference": "7668641391808",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "Yoplait",
+    "categorie": "Épicerie",
+    "prixBase": 3.64
+  },
+  {
+    "_id": {
+      "$oid": "85b44b599e7c8795fb2f51d3"
+    },
+    "reference": "4023503816311",
+    "libelle": "Yaourt nature 100g",
+    "marque": "Yoplait",
+    "categorie": "Frais",
+    "prixBase": 4.66
+  },
+  {
+    "_id": {
+      "$oid": "7d34aca4b8b7efc217a63174"
+    },
+    "reference": "5319924038229",
+    "libelle": "Casque audio v3",
+    "marque": "Mon Petit Marché",
+    "categorie": "Électronique",
+    "prixBase": 113.28
+  },
+  {
+    "_id": {
+      "$oid": "c0cc97732fa4b61df0b72027"
+    },
+    "reference": "8385209227711",
+    "libelle": "Riz basmati 250g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 1.08
+  },
+  {
+    "_id": {
+      "$oid": "90870ba97d685438e4ee67e8"
+    },
+    "reference": "0232083384274",
+    "libelle": "Casque audio v4",
+    "marque": "Danone",
+    "categorie": "Électronique",
+    "prixBase": 92.7
+  },
+  {
+    "_id": {
+      "$oid": "009ce69b8580e6333455052b"
+    },
+    "reference": "3473718207580",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "Priméal",
+    "categorie": "Épicerie",
+    "prixBase": 2.15
+  },
+  {
+    "_id": {
+      "$oid": "ea549688ce2fe326943f8f27"
+    },
+    "reference": "0438210645010",
+    "libelle": "Casque audio v3",
+    "marque": "Panzani",
+    "categorie": "Électronique",
+    "prixBase": 57.24
+  },
+  {
+    "_id": {
+      "$oid": "8fa2a879d2e046c1fb0cdc9a"
+    },
+    "reference": "0094077455781",
+    "libelle": "Fromage emmental 400g",
+    "marque": "Barilla",
+    "categorie": "Frais",
+    "prixBase": 2.4
+  },
+  {
+    "_id": {
+      "$oid": "a7a691d5a21f909ab83f6956"
+    },
+    "reference": "2343689391355",
+    "libelle": "Casque audio v3",
+    "marque": "BioVillage",
+    "categorie": "Électronique",
+    "prixBase": 53.8
+  },
+  {
+    "_id": {
+      "$oid": "3d7ae78065a0f4c74686ea5b"
+    },
+    "reference": "7709436194837",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "Priméal",
+    "categorie": "Textile",
+    "prixBase": 5.53
+  },
+  {
+    "_id": {
+      "$oid": "9128b40bd24a00407bf3a085"
+    },
+    "reference": "4363695222307",
+    "libelle": "Beurre doux 300g",
+    "marque": "Président",
+    "categorie": "Frais",
+    "prixBase": 5.21
+  },
+  {
+    "_id": {
+      "$oid": "bfc06f38958aaccf82f51ebe"
+    },
+    "reference": "2156175522854",
+    "libelle": "Chaussettes sport TS",
+    "marque": "Panzani",
+    "categorie": "Textile",
+    "prixBase": 31.79
+  },
+  {
+    "_id": {
+      "$oid": "147abf26a622410050ad6c93"
+    },
+    "reference": "9675117535337",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Carrefour",
+    "categorie": "Frais",
+    "prixBase": 2.92
+  },
+  {
+    "_id": {
+      "$oid": "69a012e283e1c6237dff3373"
+    },
+    "reference": "4066958329861",
+    "libelle": "Tee-shirt coton TS",
+    "marque": "Barilla",
+    "categorie": "Textile",
+    "prixBase": 34.27
+  },
+  {
+    "_id": {
+      "$oid": "779229ea31ca1c5c95257dd1"
+    },
+    "reference": "3585689871240",
+    "libelle": "Batterie externe v2",
+    "marque": "Herta",
+    "categorie": "Électronique",
+    "prixBase": 91.94
+  },
+  {
+    "_id": {
+      "$oid": "12acae8f0828be03724894f1"
+    },
+    "reference": "6667726082021",
+    "libelle": "Batterie externe v2",
+    "marque": "Mon Petit Marché",
+    "categorie": "Électronique",
+    "prixBase": 74.37
+  },
+  {
+    "_id": {
+      "$oid": "49329861a958a3532c5b8dfe"
+    },
+    "reference": "6075600232691",
+    "libelle": "Batterie externe v3",
+    "marque": "Mon Petit Marché",
+    "categorie": "Électronique",
+    "prixBase": 82.55
+  },
+  {
+    "_id": {
+      "$oid": "9e3eace8300714268f9c667d"
+    },
+    "reference": "7997556278664",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Frais",
+    "prixBase": 5.85
+  },
+  {
+    "_id": {
+      "$oid": "aeac09154cc5203d0c24cc06"
+    },
+    "reference": "8811129815758",
+    "libelle": "Yaourt nature 100g",
+    "marque": "Président",
+    "categorie": "Frais",
+    "prixBase": 1.7
+  },
+  {
+    "_id": {
+      "$oid": "2c4aac383809e63e9c8eaa0b"
+    },
+    "reference": "3041557188312",
+    "libelle": "Huile d'olive 1000g",
+    "marque": "Fleury Michon",
+    "categorie": "Épicerie",
+    "prixBase": 1.36
+  },
+  {
+    "_id": {
+      "$oid": "8476aba1ad2197718e2339ee"
+    },
+    "reference": "0871509473091",
+    "libelle": "Beurre doux 200g",
+    "marque": "Priméal",
+    "categorie": "Frais",
+    "prixBase": 2.52
+  },
+  {
+    "_id": {
+      "$oid": "9c30d38846db6b03f90425b9"
+    },
+    "reference": "4637519943911",
+    "libelle": "Clé USB 64Go v3",
+    "marque": "Reflets de France",
+    "categorie": "Électronique",
+    "prixBase": 78.26
+  },
+  {
+    "_id": {
+      "$oid": "c88ace78007fea403949d3cf"
+    },
+    "reference": "8745627749492",
+    "libelle": "Tee-shirt coton TXL",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 22.08
+  },
+  {
+    "_id": {
+      "$oid": "00fa2b3ac0610b98e56e5400"
+    },
+    "reference": "1329394300517",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Herta",
+    "categorie": "Épicerie",
+    "prixBase": 1.46
+  },
+  {
+    "_id": {
+      "$oid": "798ef2ad81d819243708fe1e"
+    },
+    "reference": "7482157953702",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Yoplait",
+    "categorie": "Frais",
+    "prixBase": 4.67
+  },
+  {
+    "_id": {
+      "$oid": "e8abefc94cdeb28441380a8f"
+    },
+    "reference": "9030598928592",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 39.03
+  },
+  {
+    "_id": {
+      "$oid": "0a0bc7ea0ed908f9bf032838"
+    },
+    "reference": "3315990930109",
+    "libelle": "Tee-shirt coton TS",
+    "marque": "Fleury Michon",
+    "categorie": "Textile",
+    "prixBase": 8.95
+  },
+  {
+    "_id": {
+      "$oid": "c7f13dffe51199dc84fb3b83"
+    },
+    "reference": "3939924497039",
+    "libelle": "Riz basmati 750g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 3.48
+  },
+  {
+    "_id": {
+      "$oid": "61d256c6d252bfafbec36c25"
+    },
+    "reference": "4590824025018",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Frais",
+    "prixBase": 1.11
+  },
+  {
+    "_id": {
+      "$oid": "cf9b07269b03417970de77b8"
+    },
+    "reference": "1865185401569",
+    "libelle": "Casque audio v3",
+    "marque": "Fleury Michon",
+    "categorie": "Électronique",
+    "prixBase": 57.48
+  },
+  {
+    "_id": {
+      "$oid": "8b751810504f58527874f22a"
+    },
+    "reference": "6188366352267",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Fleury Michon",
+    "categorie": "Épicerie",
+    "prixBase": 7.73
+  },
+  {
+    "_id": {
+      "$oid": "cb681c33a0554a82c59b046e"
+    },
+    "reference": "0761489459199",
+    "libelle": "Pull laine TL",
+    "marque": "Reflets de France",
+    "categorie": "Textile",
+    "prixBase": 28.71
+  },
+  {
+    "_id": {
+      "$oid": "53705ac39be1d8c678ccff97"
+    },
+    "reference": "6883425196740",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Fleury Michon",
+    "categorie": "Épicerie",
+    "prixBase": 3.96
+  },
+  {
+    "_id": {
+      "$oid": "c3f11ca3b783d5bfdd3ff34f"
+    },
+    "reference": "6707553853874",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "Priméal",
+    "categorie": "Textile",
+    "prixBase": 22.35
+  },
+  {
+    "_id": {
+      "$oid": "794a675b0e26de5e788d51cd"
+    },
+    "reference": "8509331117412",
+    "libelle": "Chaussettes sport TXL",
+    "marque": "Fleury Michon",
+    "categorie": "Textile",
+    "prixBase": 16.26
+  },
+  {
+    "_id": {
+      "$oid": "b9fe9d0e56040d07c252a76c"
+    },
+    "reference": "8577360844059",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Carrefour",
+    "categorie": "Frais",
+    "prixBase": 1.37
+  },
+  {
+    "_id": {
+      "$oid": "364843e9e92c96dac27a93e1"
+    },
+    "reference": "3858102029819",
+    "libelle": "Yaourt nature 300g",
+    "marque": "Panzani",
+    "categorie": "Frais",
+    "prixBase": 4.04
+  },
+  {
+    "_id": {
+      "$oid": "a78f8362f0af3ab113b6829d"
+    },
+    "reference": "2090053271091",
+    "libelle": "Beurre doux 100g",
+    "marque": "BioVillage",
+    "categorie": "Frais",
+    "prixBase": 1.03
+  },
+  {
+    "_id": {
+      "$oid": "e5d8ad2acac23b5bcf6fcca2"
+    },
+    "reference": "3893799955235",
+    "libelle": "Beurre doux 100g",
+    "marque": "Fleury Michon",
+    "categorie": "Frais",
+    "prixBase": 1.02
+  },
+  {
+    "_id": {
+      "$oid": "1f3028733d2d54c54cd9c5ac"
+    },
+    "reference": "8428593887588",
+    "libelle": "Huile d'olive 500g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 5.55
+  },
+  {
+    "_id": {
+      "$oid": "0d7126bdefa466264f19bef9"
+    },
+    "reference": "5117931639157",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 7.34
+  },
+  {
+    "_id": {
+      "$oid": "f7109a8d17dc41a070cf64af"
+    },
+    "reference": "0132513547570",
+    "libelle": "Pâtes spaghetti 250g",
+    "marque": "Barilla",
+    "categorie": "Épicerie",
+    "prixBase": 7.14
+  },
+  {
+    "_id": {
+      "$oid": "393f488d4de2319fd15899d6"
+    },
+    "reference": "8413170947638",
+    "libelle": "Huile d'olive 1000g",
+    "marque": "Priméal",
+    "categorie": "Épicerie",
+    "prixBase": 6.29
+  },
+  {
+    "_id": {
+      "$oid": "af9b062697a571d9ef8fece8"
+    },
+    "reference": "4935084492099",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 2.46
+  },
+  {
+    "_id": {
+      "$oid": "52f9658eadf533c736607c85"
+    },
+    "reference": "5896654779988",
+    "libelle": "Pâtes spaghetti 1000g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Épicerie",
+    "prixBase": 5.0
+  },
+  {
+    "_id": {
+      "$oid": "1ed1bbb6c710603c65ee1203"
+    },
+    "reference": "0084471924627",
+    "libelle": "Huile d'olive 750g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 7.84
+  },
+  {
+    "_id": {
+      "$oid": "1e97696e12870eea3f18f5a6"
+    },
+    "reference": "2626512664142",
+    "libelle": "Huile d'olive 250g",
+    "marque": "Nestlé",
+    "categorie": "Épicerie",
+    "prixBase": 5.26
+  },
+  {
+    "_id": {
+      "$oid": "905ceeb7e0199d386428bfb5"
+    },
+    "reference": "5424158831884",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 4.21
+  },
+  {
+    "_id": {
+      "$oid": "d3cf00e9fc5d266939d08d9f"
+    },
+    "reference": "5934732493403",
+    "libelle": "Casque audio v3",
+    "marque": "BioVillage",
+    "categorie": "Électronique",
+    "prixBase": 17.99
+  },
+  {
+    "_id": {
+      "$oid": "1ff86a14e9c98387a5eb3c0a"
+    },
+    "reference": "9804455441913",
+    "libelle": "Chaussettes sport TS",
+    "marque": "Herta",
+    "categorie": "Textile",
+    "prixBase": 28.48
+  },
+  {
+    "_id": {
+      "$oid": "10c56c95ac627bce64f1fc19"
+    },
+    "reference": "1413328910751",
+    "libelle": "Fromage emmental 300g",
+    "marque": "Nestlé",
+    "categorie": "Frais",
+    "prixBase": 3.38
+  },
+  {
+    "_id": {
+      "$oid": "f8ffee8ec246ee113200c6cd"
+    },
+    "reference": "3921737121123",
+    "libelle": "Casque audio v2",
+    "marque": "Panzani",
+    "categorie": "Électronique",
+    "prixBase": 110.58
+  },
+  {
+    "_id": {
+      "$oid": "ed6f1e0c1eaa01aa399350d6"
+    },
+    "reference": "8528811670965",
+    "libelle": "Casque audio v2",
+    "marque": "Président",
+    "categorie": "Électronique",
+    "prixBase": 80.26
+  },
+  {
+    "_id": {
+      "$oid": "6596635d54cf8e1c34828ce0"
+    },
+    "reference": "3801730961919",
+    "libelle": "Riz basmati 1000g",
+    "marque": "Président",
+    "categorie": "Épicerie",
+    "prixBase": 7.12
+  },
+  {
+    "_id": {
+      "$oid": "e8926adec309b0a86f2dcc41"
+    },
+    "reference": "7291375451566",
+    "libelle": "Chaussettes sport TS",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 39.37
+  },
+  {
+    "_id": {
+      "$oid": "2eeee34430104e1d6de799b3"
+    },
+    "reference": "1140877886063",
+    "libelle": "Casque audio v1",
+    "marque": "Barilla",
+    "categorie": "Électronique",
+    "prixBase": 96.24
+  },
+  {
+    "_id": {
+      "$oid": "23101a4752fba3b9561740bb"
+    },
+    "reference": "5658912592484",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Carrefour",
+    "categorie": "Frais",
+    "prixBase": 5.64
+  },
+  {
+    "_id": {
+      "$oid": "f29b47cca93ee8282144aa98"
+    },
+    "reference": "3657311380474",
+    "libelle": "Riz basmati 750g",
+    "marque": "Reflets de France",
+    "categorie": "Épicerie",
+    "prixBase": 5.33
+  },
+  {
+    "_id": {
+      "$oid": "079a357cc55144086b51ff0c"
+    },
+    "reference": "0817932928748",
+    "libelle": "Pull laine TXL",
+    "marque": "Panzani",
+    "categorie": "Textile",
+    "prixBase": 27.14
+  },
+  {
+    "_id": {
+      "$oid": "870fe21525c828505390e8b6"
+    },
+    "reference": "1033059704914",
+    "libelle": "Fromage emmental 100g",
+    "marque": "Danone",
+    "categorie": "Frais",
+    "prixBase": 5.85
+  },
+  {
+    "_id": {
+      "$oid": "d8b75c7b1c82d8b41352c2df"
+    },
+    "reference": "5040619369974",
+    "libelle": "Pâtes spaghetti 750g",
+    "marque": "BioVillage",
+    "categorie": "Épicerie",
+    "prixBase": 3.71
+  },
+  {
+    "_id": {
+      "$oid": "0d10c0e616b2714d956e930d"
+    },
+    "reference": "0131702727563",
+    "libelle": "Riz basmati 750g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 1.29
+  },
+  {
+    "_id": {
+      "$oid": "904675ea421df7aabdcafcb8"
+    },
+    "reference": "2812117816619",
+    "libelle": "Yaourt nature 100g",
+    "marque": "Barilla",
+    "categorie": "Frais",
+    "prixBase": 4.77
+  },
+  {
+    "_id": {
+      "$oid": "cea2a28b062fcd05eac92fab"
+    },
+    "reference": "6240493814400",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Fleury Michon",
+    "categorie": "Textile",
+    "prixBase": 4.77
+  },
+  {
+    "_id": {
+      "$oid": "cb0d8cd1960ff4e29517ea1a"
+    },
+    "reference": "8753191461797",
+    "libelle": "Tee-shirt coton TM",
+    "marque": "Herta",
+    "categorie": "Textile",
+    "prixBase": 15.65
+  },
+  {
+    "_id": {
+      "$oid": "b1353dbe7db493cd73cc3881"
+    },
+    "reference": "3462949538446",
+    "libelle": "Batterie externe v1",
+    "marque": "Panzani",
+    "categorie": "Électronique",
+    "prixBase": 70.06
+  },
+  {
+    "_id": {
+      "$oid": "fbe0672b75d1fc3252be6f1f"
+    },
+    "reference": "0861341209906",
+    "libelle": "Pull laine TXL",
+    "marque": "Carrefour",
+    "categorie": "Textile",
+    "prixBase": 17.64
+  },
+  {
+    "_id": {
+      "$oid": "34af5bfdf21ebc0da20ef95e"
+    },
+    "reference": "4278873180360",
+    "libelle": "Pull laine TL",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 33.66
+  },
+  {
+    "_id": {
+      "$oid": "b81190b0485c2b8c32c2b651"
+    },
+    "reference": "2445586148197",
+    "libelle": "Clé USB 64Go v3",
+    "marque": "Herta",
+    "categorie": "Électronique",
+    "prixBase": 68.4
+  },
+  {
+    "_id": {
+      "$oid": "bc80be7fdd32cd0fb4dfc3a5"
+    },
+    "reference": "6630105722147",
+    "libelle": "Tee-shirt coton TL",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 7.97
+  },
+  {
+    "_id": {
+      "$oid": "81316e7f8a4ca1aaaba89f44"
+    },
+    "reference": "8755741220661",
+    "libelle": "Batterie externe v3",
+    "marque": "Priméal",
+    "categorie": "Électronique",
+    "prixBase": 87.99
+  },
+  {
+    "_id": {
+      "$oid": "d4f1083ad8ac451a93fa5107"
+    },
+    "reference": "4093053468836",
+    "libelle": "Pull laine TM",
+    "marque": "Herta",
+    "categorie": "Textile",
+    "prixBase": 20.58
+  },
+  {
+    "_id": {
+      "$oid": "2cf17834e52e63c6fcde594d"
+    },
+    "reference": "1629942232210",
+    "libelle": "Huile d'olive 750g",
+    "marque": "Nestlé",
+    "categorie": "Épicerie",
+    "prixBase": 7.59
+  },
+  {
+    "_id": {
+      "$oid": "399c83ce4de51d0d8fcc0770"
+    },
+    "reference": "4310415194060",
+    "libelle": "Beurre doux 100g",
+    "marque": "Yoplait",
+    "categorie": "Frais",
+    "prixBase": 2.24
+  },
+  {
+    "_id": {
+      "$oid": "4ea5e0f302a914a926f3a3da"
+    },
+    "reference": "5332385520283",
+    "libelle": "Huile d'olive 250g",
+    "marque": "Panzani",
+    "categorie": "Épicerie",
+    "prixBase": 7.05
+  },
+  {
+    "_id": {
+      "$oid": "e1db23b04e885bf8c7be922d"
+    },
+    "reference": "1941753674972",
+    "libelle": "Fromage emmental 400g",
+    "marque": "Reflets de France",
+    "categorie": "Frais",
+    "prixBase": 5.82
+  },
+  {
+    "_id": {
+      "$oid": "cf093819879bfb3dd677050b"
+    },
+    "reference": "4158729716189",
+    "libelle": "Tee-shirt coton TM",
+    "marque": "BioVillage",
+    "categorie": "Textile",
+    "prixBase": 28.46
+  },
+  {
+    "_id": {
+      "$oid": "75e1ae330c3c0ac11fb2772e"
+    },
+    "reference": "9719424500963",
+    "libelle": "Casque audio v4",
+    "marque": "Président",
+    "categorie": "Électronique",
+    "prixBase": 41.03
+  },
+  {
+    "_id": {
+      "$oid": "d216592b7b4222bbfb92fb1e"
+    },
+    "reference": "0990613746572",
+    "libelle": "Huile d'olive 500g",
+    "marque": "Danone",
+    "categorie": "Épicerie",
+    "prixBase": 5.96
+  },
+  {
+    "_id": {
+      "$oid": "44afff6ec6f751b6c001fea6"
+    },
+    "reference": "6611931617708",
+    "libelle": "Yaourt nature 200g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Frais",
+    "prixBase": 2.86
+  },
+  {
+    "_id": {
+      "$oid": "3b288c5310e029430edb6aaf"
+    },
+    "reference": "2522599426282",
+    "libelle": "Chaussettes sport TL",
+    "marque": "Panzani",
+    "categorie": "Textile",
+    "prixBase": 31.54
+  },
+  {
+    "_id": {
+      "$oid": "0ec9e378c4b8cd7a2d717736"
+    },
+    "reference": "6511866637824",
+    "libelle": "Casque audio v2",
+    "marque": "Carrefour",
+    "categorie": "Électronique",
+    "prixBase": 23.35
+  },
+  {
+    "_id": {
+      "$oid": "cd5410e86bc88cac70a1672e"
+    },
+    "reference": "0936052901371",
+    "libelle": "Yaourt nature 400g",
+    "marque": "Nestlé",
+    "categorie": "Frais",
+    "prixBase": 6.12
+  },
+  {
+    "_id": {
+      "$oid": "3476f715e5ac24c4f3b42fa2"
+    },
+    "reference": "3324375807852",
+    "libelle": "Pâtes spaghetti 500g",
+    "marque": "Carrefour",
+    "categorie": "Épicerie",
+    "prixBase": 7.8
+  },
+  {
+    "_id": {
+      "$oid": "ebba94d1872522861e95205e"
+    },
+    "reference": "2104804085765",
+    "libelle": "Batterie externe v2",
+    "marque": "Président",
+    "categorie": "Électronique",
+    "prixBase": 94.28
+  },
+  {
+    "_id": {
+      "$oid": "4777dac19b43715f1f75bc59"
+    },
+    "reference": "8055633002523",
+    "libelle": "Beurre doux 300g",
+    "marque": "Président",
+    "categorie": "Frais",
+    "prixBase": 6.15
+  },
+  {
+    "_id": {
+      "$oid": "62aabeb0241dd09843220db3"
+    },
+    "reference": "0450381349553",
+    "libelle": "Chaussettes sport TM",
+    "marque": "Mon Petit Marché",
+    "categorie": "Textile",
+    "prixBase": 21.11
+  },
+  {
+    "_id": {
+      "$oid": "fa48f012d946f5ca7ffd417a"
+    },
+    "reference": "1234037987695",
+    "libelle": "Batterie externe v3",
+    "marque": "Nestlé",
+    "categorie": "Électronique",
+    "prixBase": 15.21
+  },
+  {
+    "_id": {
+      "$oid": "2b2285670f000191fef7dad7"
+    },
+    "reference": "9312872266716",
+    "libelle": "Clé USB 64Go v1",
+    "marque": "Président",
+    "categorie": "Électronique",
+    "prixBase": 93.43
+  },
+  {
+    "_id": {
+      "$oid": "e2ee27b941fb3d2760b3f9e1"
+    },
+    "reference": "2026841207835",
+    "libelle": "Beurre doux 100g",
+    "marque": "Mon Petit Marché",
+    "categorie": "Frais",
+    "prixBase": 4.11
+  },
+  {
+    "_id": {
+      "$oid": "4c9c1bf3a0d5f5f6cc0a8c58"
+    },
+    "reference": "2024585435291",
+    "libelle": "Chaussettes sport TL",
+    "marque": "Yoplait",
+    "categorie": "Textile",
+    "prixBase": 16.55
+  },
+  {
+    "_id": {
+      "$oid": "d2258b3e5c5ae0d03343bccd"
+    },
+    "reference": "6659678923534",
+    "libelle": "Pull laine TL",
+    "marque": "Président",
+    "categorie": "Textile",
+    "prixBase": 14.02
+  },
+  {
+    "_id": {
+      "$oid": "d3fe8c5c091e51e21ff45ffd"
+    },
+    "reference": "0266012617739",
+    "libelle": "Riz basmati 750g",
+    "marque": "Barilla",
+    "categorie": "Épicerie",
+    "prixBase": 5.27
+  },
+  {
+    "_id": {
+      "$oid": "4671f61874ed9a107d38ca88"
+    },
+    "reference": "4933912034709",
+    "libelle": "Clé USB 64Go v3",
+    "marque": "Nestlé",
+    "categorie": "Électronique",
+    "prixBase": 107.64
+  }
+]

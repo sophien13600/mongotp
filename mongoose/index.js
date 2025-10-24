@@ -2,12 +2,17 @@ import express from "express";
 import { connect } from "mongoose"; 
 import cors from "cors"; 
 // import userRoutes from "./routes/userRoutes.js";
+import etudiantRoutes from "./routes/etudiantRoutes.js" 
+import produitRoutes from "./routes/produitRoutes.js"
 
  const app = express();
 
  app.use(express.json());
+
 //  app.use("/users", userRoutes);
- app.use(cors());
+app.use("/etudiant", etudiantRoutes);
+app.use("/produits", produitRoutes);
+app.use(cors());
  
  connect("mongodb://127.0.0.1:27017/dwwm_api")
  .then(() => console.log("Connecté à MongoDB"))
